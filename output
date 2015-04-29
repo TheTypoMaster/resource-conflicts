@@ -1,0 +1,3905 @@
+0
+begin_metric
+1
+end_metric
+begin_variables
+8
+var4 2 -1
+var3 10 -1
+var5 2 -1
+var1 11 -1
+var2 11 -1
+var0 12 -1
+var33 2 -1
+var18 2 -1
+end_variables
+begin_state
+1
+8
+0
+10
+4
+9
+1
+0
+end_state
+begin_goal
+3
+2 0
+6 0
+7 0
+end_goal
+62
+begin_operator
+explain_obs_move_human_room5_hall5_1 
+0
+2
+0
+1 8 1
+0
+0 -1 0
+1
+end_operator
+begin_operator
+move_human_room5_hall1 
+0
+1
+0
+1 8 2
+1
+end_operator
+begin_operator
+move_reverse_human_hall5_hall4 
+2
+0 1
+2 0
+1
+0
+1 1 7
+1
+end_operator
+begin_operator
+move_reverse_human_hall5_room5 
+0
+1
+0
+1 1 8
+1
+end_operator
+begin_operator
+explain_obs_move_reverse_human_hall5_hall4_1 
+1
+0 0
+2
+0
+1 1 7
+0
+2 -1 1
+1
+end_operator
+begin_operator
+move_reverse_human_hall1_room1 
+0
+1
+0
+1 2 9
+1
+end_operator
+begin_operator
+move_reverse_human_hall1_room5 
+0
+1
+0
+1 2 8
+1
+end_operator
+begin_operator
+move_human_hall1_hall2 
+0
+1
+0
+1 2 4
+1
+end_operator
+begin_operator
+move_reverse_human_hall4_room4 
+0
+1
+0
+1 7 5
+1
+end_operator
+begin_operator
+move_human_hall4_hall5 
+0
+1
+0
+1 7 1
+1
+end_operator
+begin_operator
+move_reverse_human_hall4_hall3 
+0
+1
+0
+1 7 6
+1
+end_operator
+begin_operator
+move_human_room1_hall1 
+0
+1
+0
+1 9 2
+1
+end_operator
+begin_operator
+move_human_hall2_hall3 
+0
+1
+0
+1 4 6
+1
+end_operator
+begin_operator
+move_reverse_human_hall2_hall1 
+0
+1
+0
+1 4 2
+1
+end_operator
+begin_operator
+move_reverse_human_hall2_room2 
+0
+1
+0
+1 4 0
+1
+end_operator
+begin_operator
+move_human_room4_hall4 
+0
+1
+0
+1 5 7
+1
+end_operator
+begin_operator
+move_reverse_human_room4_room3 
+0
+1
+0
+1 5 3
+1
+end_operator
+begin_operator
+move_human_hall3_hall4 
+0
+1
+0
+1 6 7
+1
+end_operator
+begin_operator
+move_reverse_human_hall3_hall2 
+0
+1
+0
+1 6 4
+1
+end_operator
+begin_operator
+move_human_room2_hall2 
+0
+1
+0
+1 0 4
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_room2 
+1
+1 0
+3
+0
+5 -1 7
+0
+4 4 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+move_human_room3_room4 
+0
+1
+0
+1 3 5
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_room3 
+1
+1 3
+3
+0
+5 9 7
+0
+3 -1 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+conduct_triage_human_room1 
+2
+5 7
+1 9
+1
+0
+6 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_room4 
+1
+1 5
+3
+0
+5 -1 10
+0
+4 8 2
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_room3 
+1
+1 3
+3
+0
+5 -1 0
+0
+4 8 10
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_room5 
+1
+1 8
+3
+0
+5 -1 5
+0
+4 8 9
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_room2 
+1
+1 0
+3
+0
+5 -1 6
+0
+4 8 4
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_hall5 
+1
+1 1
+3
+0
+5 -1 1
+0
+4 8 3
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_hall3 
+1
+1 6
+3
+0
+5 -1 11
+0
+4 8 0
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_hall2 
+1
+1 4
+3
+0
+5 -1 2
+0
+4 8 6
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_hall1 
+1
+1 2
+3
+0
+5 -1 3
+0
+4 8 5
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_room1 
+1
+1 9
+3
+0
+5 -1 8
+0
+4 8 7
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk1_hall4 
+1
+1 7
+3
+0
+5 -1 4
+0
+4 8 1
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_room5 
+1
+1 8
+3
+0
+5 -1 5
+0
+3 7 5
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_room2 
+1
+1 0
+3
+0
+5 -1 6
+0
+3 7 1
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_hall5 
+1
+1 1
+3
+0
+5 -1 1
+0
+3 7 0
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_hall3 
+1
+1 6
+3
+0
+5 -1 11
+0
+3 7 8
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_hall2 
+1
+1 4
+3
+0
+5 -1 2
+0
+3 7 9
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_hall1 
+1
+1 2
+3
+0
+5 -1 3
+0
+3 7 3
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_room4 
+1
+1 5
+3
+0
+5 -1 10
+0
+3 7 4
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_room1 
+1
+1 9
+3
+0
+5 -1 8
+0
+3 7 2
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_hall4 
+1
+1 7
+3
+0
+5 -1 4
+0
+3 7 6
+0
+7 -1 0
+1
+end_operator
+begin_operator
+drop_off_human_mk2_room3 
+1
+1 3
+3
+0
+5 -1 9
+0
+3 7 10
+0
+7 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_room4 
+1
+1 5
+3
+0
+5 -1 7
+0
+4 2 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_room3 
+1
+1 3
+3
+0
+5 0 7
+0
+4 -1 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_room5 
+1
+1 8
+3
+0
+5 -1 7
+0
+4 9 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_hall5 
+1
+1 1
+3
+0
+5 -1 7
+0
+4 3 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_hall3 
+1
+1 6
+3
+0
+5 -1 7
+0
+4 0 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_hall2 
+1
+1 4
+3
+0
+5 -1 7
+0
+4 6 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_hall1 
+1
+1 2
+3
+0
+5 -1 7
+0
+4 5 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_room1 
+1
+1 9
+3
+0
+5 -1 7
+0
+4 7 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk1_hall4 
+1
+1 7
+3
+0
+5 -1 7
+0
+4 1 8
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_room5 
+1
+1 8
+3
+0
+5 -1 7
+0
+3 5 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_room2 
+1
+1 0
+3
+0
+5 -1 7
+0
+3 1 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_hall5 
+1
+1 1
+3
+0
+5 -1 7
+0
+3 0 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_hall3 
+1
+1 6
+3
+0
+5 -1 7
+0
+3 8 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_hall2 
+1
+1 4
+3
+0
+5 -1 7
+0
+3 9 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_hall1 
+1
+1 2
+3
+0
+5 -1 7
+0
+3 3 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_room4 
+1
+1 5
+3
+0
+5 -1 7
+0
+3 4 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_room1 
+1
+1 9
+3
+0
+5 -1 7
+0
+3 2 7
+1
+7 0
+7 -1 1
+1
+end_operator
+begin_operator
+pick_up_medkit_human_mk2_hall4 
+1
+1 7
+3
+0
+5 -1 7
+0
+3 6 7
+1
+7 0
+7 -1 1
+1
+end_operator
+0
+begin_SG
+switch 5
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 1
+45
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+23
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 1
+22
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 3
+check 0
+switch 1
+check 0
+check 0
+check 1
+55
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+54
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+60
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 1
+58
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+59
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+53
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+61
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+35
+check 1
+36
+check 1
+39
+check 1
+43
+check 1
+38
+check 1
+40
+check 1
+37
+check 1
+42
+check 1
+34
+check 1
+41
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+56
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+57
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 4
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+48
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+52
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+44
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 1
+47
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+20
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 1
+50
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+49
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+51
+check 0
+switch 1
+check 0
+check 1
+27
+check 1
+28
+check 1
+31
+check 1
+25
+check 1
+30
+check 1
+24
+check 1
+29
+check 1
+33
+check 1
+26
+check 1
+32
+check 0
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+46
+check 0
+check 0
+check 0
+switch 1
+check 0
+check 1
+19
+switch 0
+check 1
+3
+check 1
+4
+switch 2
+check 0
+check 1
+2
+check 0
+check 0
+check 0
+check 3
+5
+6
+7
+check 1
+21
+check 3
+12
+13
+14
+check 2
+15
+16
+check 2
+17
+18
+check 3
+8
+9
+10
+check 2
+0
+1
+check 1
+11
+check 0
+end_SG
+begin_DTG
+0
+1
+0
+0
+1
+1 8
+end_DTG
+begin_DTG
+1
+4
+19
+0
+3
+7
+4
+1
+0 0
+7
+2
+2
+0 1
+2 0
+8
+3
+0
+3
+4
+7
+0
+8
+6
+0
+9
+5
+0
+1
+5
+21
+0
+3
+0
+14
+0
+2
+13
+0
+6
+12
+0
+2
+3
+16
+0
+7
+15
+0
+2
+4
+18
+0
+7
+17
+0
+3
+1
+9
+0
+5
+8
+0
+6
+10
+0
+2
+1
+0
+0
+2
+1
+0
+1
+2
+11
+0
+end_DTG
+begin_DTG
+1
+1
+4
+2
+1 1
+0 0
+0
+end_DTG
+begin_DTG
+2
+7
+55
+1
+1 1
+7
+22
+2
+5 9
+1 3
+2
+7
+54
+1
+1 0
+7
+22
+2
+5 9
+1 3
+2
+7
+60
+1
+1 9
+7
+22
+2
+5 9
+1 3
+2
+7
+58
+1
+1 2
+7
+22
+2
+5 9
+1 3
+2
+7
+59
+1
+1 5
+7
+22
+2
+5 9
+1 3
+2
+7
+53
+1
+1 8
+7
+22
+2
+5 9
+1 3
+2
+7
+61
+1
+1 7
+7
+22
+2
+5 9
+1 3
+10
+0
+36
+1
+1 1
+1
+35
+1
+1 0
+2
+41
+1
+1 9
+3
+39
+1
+1 2
+4
+40
+1
+1 5
+5
+34
+1
+1 8
+6
+42
+1
+1 7
+8
+37
+1
+1 6
+9
+38
+1
+1 4
+10
+43
+1
+1 3
+2
+7
+56
+1
+1 6
+7
+22
+2
+5 9
+1 3
+2
+7
+57
+1
+1 4
+7
+22
+2
+5 9
+1 3
+1
+7
+22
+2
+5 9
+1 3
+end_DTG
+begin_DTG
+2
+8
+48
+1
+1 6
+8
+45
+2
+5 0
+1 3
+2
+8
+52
+1
+1 7
+8
+45
+2
+5 0
+1 3
+2
+8
+44
+1
+1 5
+8
+45
+2
+5 0
+1 3
+2
+8
+47
+1
+1 1
+8
+45
+2
+5 0
+1 3
+2
+8
+20
+1
+1 0
+8
+45
+2
+5 0
+1 3
+2
+8
+50
+1
+1 2
+8
+45
+2
+5 0
+1 3
+2
+8
+49
+1
+1 4
+8
+45
+2
+5 0
+1 3
+2
+8
+51
+1
+1 9
+8
+45
+2
+5 0
+1 3
+10
+0
+29
+1
+1 6
+1
+33
+1
+1 7
+2
+24
+1
+1 5
+3
+28
+1
+1 1
+4
+27
+1
+1 0
+5
+31
+1
+1 2
+6
+30
+1
+1 4
+7
+32
+1
+1 9
+9
+26
+1
+1 8
+10
+25
+1
+1 3
+2
+8
+46
+1
+1 8
+8
+45
+2
+5 0
+1 3
+1
+8
+45
+2
+5 0
+1 3
+end_DTG
+begin_DTG
+38
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+38
+2
+3 7
+1 4
+2
+30
+2
+4 8
+1 4
+3
+39
+2
+3 7
+1 2
+3
+31
+2
+4 8
+1 2
+4
+33
+2
+4 8
+1 7
+4
+42
+2
+3 7
+1 7
+5
+34
+2
+3 7
+1 8
+5
+26
+2
+4 8
+1 8
+6
+35
+2
+3 7
+1 0
+6
+27
+2
+4 8
+1 0
+7
+45
+1
+1 3
+7
+52
+2
+4 1
+1 7
+7
+58
+2
+3 3
+1 2
+7
+51
+2
+4 7
+1 9
+7
+53
+2
+3 5
+1 8
+7
+54
+2
+3 1
+1 0
+7
+50
+2
+4 5
+1 2
+7
+55
+2
+3 0
+1 1
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+20
+2
+4 4
+1 0
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+2
+38
+2
+3 7
+1 4
+2
+30
+2
+4 8
+1 4
+3
+39
+2
+3 7
+1 2
+3
+31
+2
+4 8
+1 2
+4
+33
+2
+4 8
+1 7
+4
+42
+2
+3 7
+1 7
+5
+34
+2
+3 7
+1 8
+5
+26
+2
+4 8
+1 8
+6
+35
+2
+3 7
+1 0
+6
+27
+2
+4 8
+1 0
+7
+51
+2
+4 7
+1 9
+7
+52
+2
+4 1
+1 7
+7
+58
+2
+3 3
+1 2
+7
+53
+2
+3 5
+1 8
+7
+54
+2
+3 1
+1 0
+7
+55
+2
+3 0
+1 1
+7
+50
+2
+4 5
+1 2
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+20
+2
+4 4
+1 0
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+36
+2
+3 7
+1 1
+1
+28
+2
+4 8
+1 1
+3
+39
+2
+3 7
+1 2
+3
+31
+2
+4 8
+1 2
+4
+33
+2
+4 8
+1 7
+4
+42
+2
+3 7
+1 7
+5
+34
+2
+3 7
+1 8
+5
+26
+2
+4 8
+1 8
+6
+35
+2
+3 7
+1 0
+6
+27
+2
+4 8
+1 0
+7
+51
+2
+4 7
+1 9
+7
+52
+2
+4 1
+1 7
+7
+50
+2
+4 5
+1 2
+7
+53
+2
+3 5
+1 8
+7
+54
+2
+3 1
+1 0
+7
+55
+2
+3 0
+1 1
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+36
+2
+3 7
+1 1
+1
+28
+2
+4 8
+1 1
+2
+38
+2
+3 7
+1 4
+2
+30
+2
+4 8
+1 4
+4
+33
+2
+4 8
+1 7
+4
+42
+2
+3 7
+1 7
+5
+34
+2
+3 7
+1 8
+5
+26
+2
+4 8
+1 8
+6
+35
+2
+3 7
+1 0
+6
+27
+2
+4 8
+1 0
+7
+51
+2
+4 7
+1 9
+7
+52
+2
+4 1
+1 7
+7
+50
+2
+4 5
+1 2
+7
+53
+2
+3 5
+1 8
+7
+54
+2
+3 1
+1 0
+7
+55
+2
+3 0
+1 1
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+30
+2
+4 8
+1 4
+2
+38
+2
+3 7
+1 4
+3
+31
+2
+4 8
+1 2
+3
+39
+2
+3 7
+1 2
+5
+26
+2
+4 8
+1 8
+5
+34
+2
+3 7
+1 8
+6
+27
+2
+4 8
+1 0
+6
+35
+2
+3 7
+1 0
+7
+52
+2
+4 1
+1 7
+7
+55
+2
+3 0
+1 1
+7
+54
+2
+3 1
+1 0
+7
+53
+2
+3 5
+1 8
+7
+50
+2
+4 5
+1 2
+7
+51
+2
+4 7
+1 9
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+38
+2
+3 7
+1 4
+2
+30
+2
+4 8
+1 4
+3
+39
+2
+3 7
+1 2
+3
+31
+2
+4 8
+1 2
+4
+33
+2
+4 8
+1 7
+4
+42
+2
+3 7
+1 7
+6
+35
+2
+3 7
+1 0
+6
+27
+2
+4 8
+1 0
+7
+58
+2
+3 3
+1 2
+7
+52
+2
+4 1
+1 7
+7
+53
+2
+3 5
+1 8
+7
+51
+2
+4 7
+1 9
+7
+54
+2
+3 1
+1 0
+7
+55
+2
+3 0
+1 1
+7
+50
+2
+4 5
+1 2
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+20
+2
+4 4
+1 0
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+38
+2
+3 7
+1 4
+2
+30
+2
+4 8
+1 4
+3
+39
+2
+3 7
+1 2
+3
+31
+2
+4 8
+1 2
+4
+33
+2
+4 8
+1 7
+4
+42
+2
+3 7
+1 7
+5
+34
+2
+3 7
+1 8
+5
+26
+2
+4 8
+1 8
+7
+58
+2
+3 3
+1 2
+7
+52
+2
+4 1
+1 7
+7
+53
+2
+3 5
+1 8
+7
+51
+2
+4 7
+1 9
+7
+54
+2
+3 1
+1 0
+7
+55
+2
+3 0
+1 1
+7
+50
+2
+4 5
+1 2
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+20
+2
+4 4
+1 0
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+20
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+30
+2
+4 8
+1 4
+2
+38
+2
+3 7
+1 4
+3
+31
+2
+4 8
+1 2
+3
+39
+2
+3 7
+1 2
+4
+42
+2
+3 7
+1 7
+4
+33
+2
+4 8
+1 7
+5
+26
+2
+4 8
+1 8
+5
+34
+2
+3 7
+1 8
+6
+27
+2
+4 8
+1 0
+6
+35
+2
+3 7
+1 0
+8
+32
+2
+4 8
+1 9
+8
+41
+2
+3 7
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+30
+2
+4 8
+1 4
+2
+38
+2
+3 7
+1 4
+3
+31
+2
+4 8
+1 2
+3
+39
+2
+3 7
+1 2
+4
+42
+2
+3 7
+1 7
+4
+33
+2
+4 8
+1 7
+5
+26
+2
+4 8
+1 8
+5
+34
+2
+3 7
+1 8
+6
+27
+2
+4 8
+1 0
+6
+35
+2
+3 7
+1 0
+7
+55
+2
+3 0
+1 1
+7
+51
+2
+4 7
+1 9
+7
+54
+2
+3 1
+1 0
+7
+53
+2
+3 5
+1 8
+7
+52
+2
+4 1
+1 7
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+50
+2
+4 5
+1 2
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+38
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+30
+2
+4 8
+1 4
+2
+38
+2
+3 7
+1 4
+3
+31
+2
+4 8
+1 2
+3
+39
+2
+3 7
+1 2
+4
+42
+2
+3 7
+1 7
+4
+33
+2
+4 8
+1 7
+5
+26
+2
+4 8
+1 8
+5
+34
+2
+3 7
+1 8
+6
+27
+2
+4 8
+1 0
+6
+35
+2
+3 7
+1 0
+7
+22
+1
+1 3
+7
+53
+2
+3 5
+1 8
+7
+55
+2
+3 0
+1 1
+7
+54
+2
+3 1
+1 0
+7
+51
+2
+4 7
+1 9
+7
+52
+2
+4 1
+1 7
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+50
+2
+4 5
+1 2
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+30
+2
+4 8
+1 4
+2
+38
+2
+3 7
+1 4
+3
+31
+2
+4 8
+1 2
+3
+39
+2
+3 7
+1 2
+4
+42
+2
+3 7
+1 7
+4
+33
+2
+4 8
+1 7
+5
+26
+2
+4 8
+1 8
+5
+34
+2
+3 7
+1 8
+6
+27
+2
+4 8
+1 0
+6
+35
+2
+3 7
+1 0
+7
+55
+2
+3 0
+1 1
+7
+51
+2
+4 7
+1 9
+7
+54
+2
+3 1
+1 0
+7
+53
+2
+3 5
+1 8
+7
+52
+2
+4 1
+1 7
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+50
+2
+4 5
+1 2
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+11
+37
+2
+3 7
+1 6
+11
+29
+2
+4 8
+1 6
+36
+0
+25
+2
+4 8
+1 3
+1
+28
+2
+4 8
+1 1
+1
+36
+2
+3 7
+1 1
+2
+30
+2
+4 8
+1 4
+2
+38
+2
+3 7
+1 4
+3
+31
+2
+4 8
+1 2
+3
+39
+2
+3 7
+1 2
+4
+42
+2
+3 7
+1 7
+4
+33
+2
+4 8
+1 7
+5
+26
+2
+4 8
+1 8
+5
+34
+2
+3 7
+1 8
+6
+27
+2
+4 8
+1 0
+6
+35
+2
+3 7
+1 0
+7
+55
+2
+3 0
+1 1
+7
+51
+2
+4 7
+1 9
+7
+54
+2
+3 1
+1 0
+7
+53
+2
+3 5
+1 8
+7
+52
+2
+4 1
+1 7
+7
+20
+2
+4 4
+1 0
+7
+56
+2
+3 8
+1 6
+7
+57
+2
+3 9
+1 4
+7
+58
+2
+3 3
+1 2
+7
+59
+2
+3 4
+1 5
+7
+60
+2
+3 2
+1 9
+7
+61
+2
+3 6
+1 7
+7
+50
+2
+4 5
+1 2
+7
+49
+2
+4 6
+1 4
+7
+48
+2
+4 0
+1 6
+7
+47
+2
+4 3
+1 1
+7
+46
+2
+4 9
+1 8
+7
+44
+2
+4 2
+1 5
+8
+41
+2
+3 7
+1 9
+8
+32
+2
+4 8
+1 9
+9
+43
+2
+3 7
+1 3
+10
+40
+2
+3 7
+1 5
+10
+24
+2
+4 8
+1 5
+end_DTG
+begin_DTG
+0
+1
+0
+23
+2
+5 7
+1 9
+end_DTG
+begin_DTG
+20
+1
+52
+3
+4 1
+1 7
+7 0
+1
+61
+3
+3 6
+1 7
+7 0
+1
+60
+3
+3 2
+1 9
+7 0
+1
+59
+3
+3 4
+1 5
+7 0
+1
+58
+3
+3 3
+1 2
+7 0
+1
+57
+3
+3 9
+1 4
+7 0
+1
+56
+3
+3 8
+1 6
+7 0
+1
+55
+3
+3 0
+1 1
+7 0
+1
+54
+3
+3 1
+1 0
+7 0
+1
+53
+3
+3 5
+1 8
+7 0
+1
+20
+3
+4 4
+1 0
+7 0
+1
+51
+3
+4 7
+1 9
+7 0
+1
+50
+3
+4 5
+1 2
+7 0
+1
+49
+3
+4 6
+1 4
+7 0
+1
+48
+3
+4 0
+1 6
+7 0
+1
+47
+3
+4 3
+1 1
+7 0
+1
+46
+3
+4 9
+1 8
+7 0
+1
+45
+3
+5 0
+1 3
+7 0
+1
+44
+3
+4 2
+1 5
+7 0
+1
+22
+3
+5 9
+1 3
+7 0
+20
+0
+34
+2
+3 7
+1 8
+0
+43
+2
+3 7
+1 3
+0
+42
+2
+3 7
+1 7
+0
+41
+2
+3 7
+1 9
+0
+40
+2
+3 7
+1 5
+0
+39
+2
+3 7
+1 2
+0
+38
+2
+3 7
+1 4
+0
+37
+2
+3 7
+1 6
+0
+36
+2
+3 7
+1 1
+0
+35
+2
+3 7
+1 0
+0
+24
+2
+4 8
+1 5
+0
+33
+2
+4 8
+1 7
+0
+32
+2
+4 8
+1 9
+0
+31
+2
+4 8
+1 2
+0
+30
+2
+4 8
+1 4
+0
+29
+2
+4 8
+1 6
+0
+28
+2
+4 8
+1 1
+0
+27
+2
+4 8
+1 0
+0
+26
+2
+4 8
+1 8
+0
+25
+2
+4 8
+1 3
+end_DTG
+begin_CG
+2
+1 2
+2 1
+7
+5 40
+3 20
+4 20
+0 1
+2 1
+7 40
+6 1
+1
+1 1
+2
+5 19
+7 19
+2
+5 19
+7 19
+4
+3 1
+4 1
+7 2
+6 1
+0
+0
+end_CG

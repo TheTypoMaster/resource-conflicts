@@ -1,0 +1,108 @@
+Timeout: 489 seconds
+Heap restriction: 1024 MB
+Command: (./plan prob-3-PR/O/pr-domain.pddl prob-3-PR/O/pr-problem.pddl pr-problem.res) >> pr-problem-3-O.log 2>&1
+
+1. Running translator
+Parsing...
+Instantiating...
+Starting instantiation [231 rules]...
+Finding invariants...
+82 initial candidates
+Instantiating groups...
+Choosing groups...
+31 uncovered facts
+Building translation key...
+Building STRIPS to SAS dictionary...
+Translating task...
+Processing axioms...
+Detecting unreachable propositions... 6 propositions removed.
+Writing output...
+Done!
+2. Running preprocessor
+Building causal graph...
+The causal graph is not acyclic.
+10 variables of 40 necessary
+64 of 73 operators necessary.
+0 of 0 axiom rules necessary.
+Building domain transition graphs...
+solveable in poly time 0
+Building successor generator...
+Writing output...
+done
+
+3. Running search
+Simplifying transitions... done!
+Initializing HSP/FF heuristic...
+Simplifying 148 unary operators... done! [148 unary operators]
+Reading invariants from file...
+File successfully deleted
+done
+Generating landmarks using the RPG/SAS+ approach
+approx. reasonable orders
+approx. obedient reasonable orders
+Removed 0 reasonable or obedient reasonable orders
+Generated 15 landmarks, of which 0 are disjunctive
+          23 edges
+6 initial landmarks, 3 goal landmarks
+Landmarks generation time: 0 seconds
+Search iteration 1
+Using the following heuristic(s):
+FF heuristic with preferred operators
+Landmark heuristic with preferred operators
+Initializing HSP/FF heuristic...
+Simplifying 148 unary operators... done! [148 unary operators]
+Initializing landmarks count heuristic...
+Conducting best first search.
+Best heuristic value: 17/18 [expanded 1 state(s)]
+Best heuristic value: 13/16 [expanded 2 state(s)]
+Best heuristic value: 9/14 [expanded 3 state(s)]
+Best heuristic value: 7/14 [expanded 4 state(s)]
+Best heuristic value: 5/14 [expanded 9 state(s)]
+Best heuristic value: 5/12 [expanded 11 state(s)]
+Best heuristic value: 5/10 [expanded 12 state(s)]
+Best heuristic value: 5/8 [expanded 13 state(s)]
+Best heuristic value: 5/6 [expanded 14 state(s)]
+Best heuristic value: 3/4 [expanded 16 state(s)]
+Best heuristic value: 1/2 [expanded 17 state(s)]
+Solution found!
+explain_obs_move_human_room5_hall5_1  (1)
+explain_obs_move_reverse_human_hall5_hall4_1  (1)
+explain_obs_move_reverse_human_hall4_room4_1  (1)
+move_reverse_human_room4_room3  (1)
+pick_up_medkit_human_mk2_room3  (1)
+move_human_room3_room4  (1)
+move_human_room4_hall4  (1)
+move_human_hall4_hall5  (1)
+move_reverse_human_hall5_room5  (1)
+move_human_room5_hall1  (1)
+conduct_triage_human_hall1  (1)
+drop_off_human_mk2_hall1  (1)
+Plan length: 12 step(s), cost: 12.
+Expanded 18 state(s).
+Generated 48 state(s).
+Search time: 0 seconds
+Total time: 0 seconds
+Search iteration 2
+Using the following heuristic(s):
+FF heuristic with preferred operators
+Landmark heuristic with preferred operators
+Initializing landmarks count heuristic...
+Conducting weighted A* search, weight is 5, bound is 12.
+Best heuristic value: 17/18 [expanded 1 state(s)]
+Best heuristic value: 13/16 [expanded 2 state(s)]
+Best heuristic value: 9/14 [expanded 3 state(s)]
+Best heuristic value: 7/14 [expanded 4 state(s)]
+Best heuristic value: 5/14 [expanded 9 state(s)]
+Best heuristic value: 5/12 [expanded 11 state(s)]
+Best heuristic value: 5/10 [expanded 12 state(s)]
+Best heuristic value: 5/8 [expanded 13 state(s)]
+Best heuristic value: 5/6 [expanded 14 state(s)]
+Best heuristic value: 3/4 [expanded 16 state(s)]
+Best heuristic value: 1/2 [expanded 17 state(s)]
+Completely explored state space -- no solution!
+Expanded 405 state(s).
+Generated 1148 state(s).
+Search time: 0.02 seconds
+Total time: 0.02 seconds
+
+Time spent: 13.490 seconds

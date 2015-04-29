@@ -1,0 +1,69 @@
+prob-plan-generator/test_dom1/test_0020_2_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.227232933044 Cost:  8 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.31043100357 Cost:  8 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.80370116234 Cost:  8 Conflict:  0.0 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  10.1948668957 Cost:  8 Conflict:  0.0 Success 1.0 T =  25
+Time Taken: 79.4934079647  sec
+prob-plan-generator/test_dom1/test_0020_2_7.tar.bz2
+Time:  0.220669984818 Cost:  8 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.36730194092 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  4.40670514107 Cost:  8 Conflict:  0.0 Success 1.0 T =  20
+Time:  8.08905816078 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+Time Taken: 97.0359358788  sec
+prob-plan-generator/test_dom1/test_0020_2_8.tar.bz2
+Time:  0.222211837769 Cost:  8 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.34867405891 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  4.10675096512 Cost:  8 Conflict:  0.0 Success 1.0 T =  20
+Time:  9.24549102783 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+Time Taken: 88.2973108292  sec
+prob-plan-generator/test_dom1/test_0021_3_1.tar.bz2
+Optimization was stopped with status 13
+Time:  1.34650802612 Cost:  8 Conflict:  3.68177140128e-18 Success 0.129819501531 T =  15
+Time:  4.4189658165 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  14.2179689407 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 122.301939964  sec
+prob-plan-generator/test_dom1/test_0021_3_2.tar.bz2
+Optimization was stopped with status 13
+Time:  1.6372961998 Cost:  8 Conflict:  3.68177140128e-18 Success 0.129819501531 T =  15
+Time:  4.42025184631 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  13.583974123 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 103.055435181  sec
+prob-plan-generator/test_dom1/test_0021_3_3.tar.bz2
+Optimization was stopped with status 13
+Time:  1.31674718857 Cost:  8 Conflict:  3.68177140128e-18 Success 0.129819501531 T =  15
+Time:  4.44662094116 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  15.1534109116 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 124.035634041  sec
+prob-plan-generator/test_dom1/test_0021_3_4.tar.bz2
+Optimization was stopped with status 13
+Time:  1.34673595428 Cost:  8 Conflict:  3.68177140128e-18 Success 0.129819501531 T =  15
+Time:  4.36083984375 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  15.0761048794 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 125.989326  sec
+prob-plan-generator/test_dom1/test_0021_3_5.tar.bz2
+Optimization was stopped with status 13
+Time:  1.32917404175 Cost:  8 Conflict:  3.68177140128e-18 Success 0.129819501531 T =  15
+Time:  4.9733569622 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  12.6776828766 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 141.398277044  sec
+prob-plan-generator/test_dom1/test_0021_3_6.tar.bz2
+Optimization was stopped with status 13
+Time:  1.13657593727 Cost:  8 Conflict:  0.0158937229363 Success 0.587198051985 T =  15
+Time:  2.67659592628 Cost:  9 Conflict:  0.0 Success 0.587198051985 T =  20
+Time:  11.2645230293 Cost:  9 Conflict:  0.0 Success 0.587198051985 T =  25
+Time Taken: 150.002902985  sec
+prob-plan-generator/test_dom1/test_0021_3_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Optimization was stopped with status 13
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.24462890625 Cost:  9 Conflict:  0.0607758092496 Success 0.735736126293 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.50270700455 Cost:  8 Conflict:  0.0 Success 0.735736126293 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  7.14979887009 Cost:  9 Conflict:  0.0 Success 0.735736126293 T =  25
+Time Taken: 128.270132065  sec
+

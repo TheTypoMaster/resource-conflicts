@@ -1,0 +1,2 @@
+(conducted_triage human room1),(not (has_medkit human))
+(conducted_triage human hall4),(not (has_medkit human))

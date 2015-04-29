@@ -1,0 +1,1841 @@
+prob-plan-generator/test_dom1/test_0020_2_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.262693881989 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.24455595016 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.80077195168 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  39.9509410858 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0020_2_7.tar.bz2
+Time:  0.268723964691 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.00405788422 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  8.03603696823 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  83.9728479385 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0020_2_8.tar.bz2
+Time:  0.262942075729 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.03188705444 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  19.8829679489 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  108.058616877 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0021_3_1.tar.bz2
+Time:  0.273638010025 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.71568083763 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  7.01218295097 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  57.6772592068 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0021_3_2.tar.bz2
+Time:  0.27126789093 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.45204114914 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  6.32963609695 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  70.1453299522 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0021_3_3.tar.bz2
+Time:  0.281626224518 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.4758849144 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  5.99877500534 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  70.7448170185 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0021_3_4.tar.bz2
+Time:  0.271675109863 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.4482281208 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  6.01510620117 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  56.9247541428 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0021_3_5.tar.bz2
+Time:  0.277404785156 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.45041108131 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  6.08434319496 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  57.5283629894 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0021_3_6.tar.bz2
+Time:  0.278312921524 Cost:  9 Conflict:  0.765120779206 Success 1.0 T =  10
+Time:  2.01011896133 Cost:  9 Conflict:  0.0158937229363 Success 0.587198051985 T =  15
+Time:  4.78651213646 Cost:  9 Conflict:  0.0 Success 0.587198051985 T =  20
+Time:  75.6216111183 Cost:  9 Conflict:  0.0 Success 0.587198051985 T =  25
+prob-plan-generator/test_dom1/test_0021_3_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.272039175034 Cost:  9 Conflict:  0.705705549483 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.08002686501 Cost:  9 Conflict:  0.0607758092496 Success 0.735736126293 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.79619598389 Cost:  9 Conflict:  0.0 Success 0.735736126293 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  43.0229730606 Cost:  9 Conflict:  0.0 Success 0.735736126293 T =  25
+prob-plan-generator/test_dom1/test_0021_3_8.tar.bz2
+Time:  0.359121084213 Cost:  5 Conflict:  0.666666666667 Success 0.0225823885617 T =  10
+Time:  1.71705102921 Cost:  5 Conflict:  0.067072497535 Success 0.0225823885617 T =  15
+Time:  5.46344184875 Cost:  5 Conflict:  0.067072497535 Success 0.0225823885617 T =  20
+Time:  13.3517239094 Cost:  5 Conflict:  0.067072497535 Success 0.0225823885617 T =  25
+prob-plan-generator/test_dom1/test_0022_3_1.tar.bz2
+Time:  0.276927947998 Cost:  9 Conflict:  0.561972637 Success 1.0 T =  10
+Time:  1.64344120026 Cost:  7 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  11.6433990002 Cost:  7 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  37.0696251392 Cost:  7 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0022_3_2.tar.bz2
+Time:  0.276679992676 Cost:  9 Conflict:  0.561972637 Success 1.0 T =  10
+Time:  1.64098000526 Cost:  7 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  10.9216899872 Cost:  7 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  46.4467229843 Cost:  7 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0022_3_3.tar.bz2
+Time:  0.275561094284 Cost:  9 Conflict:  0.593935802966 Success 1.0 T =  10
+Time:  1.9403629303 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  15
+Time:  14.9958729744 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  20
+Time:  56.5044620037 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  25
+prob-plan-generator/test_dom1/test_0022_3_4.tar.bz2
+Time:  0.278134822845 Cost:  9 Conflict:  0.604042798023 Success 1.0 T =  10
+Time:  1.34888315201 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  15
+Time:  11.3783428669 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  20
+Time:  35.2178008556 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  25
+prob-plan-generator/test_dom1/test_0022_3_5.tar.bz2
+Time:  0.273327827454 Cost:  9 Conflict:  0.604042798023 Success 1.0 T =  10
+Time:  1.34294700623 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  15
+Time:  11.2299599648 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  20
+Time:  35.9091589451 Cost:  7 Conflict:  0.0 Success 0.494946502471 T =  25
+prob-plan-generator/test_dom1/test_0022_3_6.tar.bz2
+Time:  0.27020907402 Cost:  9 Conflict:  0.543009408503 Success 1.0 T =  10
+Time:  1.74707007408 Cost:  7 Conflict:  0.00144687596949 Success 0.761650985829 T =  15
+Time:  9.0820248127 Cost:  7 Conflict:  0.0 Success 0.761650985829 T =  20
+Time:  34.6842260361 Cost:  7 Conflict:  0.0 Success 0.761650985829 T =  25
+prob-plan-generator/test_dom1/test_0022_3_7.tar.bz2
+Time:  0.361897945404 Cost:  5 Conflict:  0.666666666667 Success 0.0608495596843 T =  10
+Time:  1.62866401672 Cost:  7 Conflict:  0.0 Success 0.939150440316 T =  15
+Time:  10.290364027 Cost:  7 Conflict:  0.0 Success 0.939150440316 T =  20
+Time:  104.440629959 Cost:  7 Conflict:  0.0 Success 0.939150440316 T =  25
+prob-plan-generator/test_dom1/test_0023_3_1.tar.bz2
+Time:  0.273843050003 Cost:  9 Conflict:  0.666666666667 Success 1.0 T =  10
+Time:  0.582114934921 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  1.68587183952 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  3.06261491776 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0023_3_2.tar.bz2
+Time:  0.262964010239 Cost:  9 Conflict:  0.666666666667 Success 1.0 T =  10
+Time:  0.582330942154 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  1.68720412254 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  2.97020316124 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0023_3_3.tar.bz2
+Time:  0.265995025635 Cost:  9 Conflict:  0.666666666667 Success 1.0 T =  10
+Time:  0.578746080399 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  1.68497991562 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  2.96806287766 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0023_3_4.tar.bz2
+Time:  0.2682929039 Cost:  9 Conflict:  0.666666666667 Success 1.0 T =  10
+Time:  0.584681987762 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  1.70711302757 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  3.08918499947 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0023_3_5.tar.bz2
+Time:  0.263565063477 Cost:  9 Conflict:  0.666666666667 Success 1.0 T =  10
+Time:  0.579586029053 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  1.71256494522 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  3.28912901878 Cost:  3 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0023_3_6.tar.bz2
+Time:  0.264485120773 Cost:  9 Conflict:  0.706337893833 Success 1.0 T =  10
+Time:  0.671476840973 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  1.72571611404 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  2.46914410591 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0023_3_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.273460865021 Cost:  9 Conflict:  0.755070259767 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.646717786789 Cost:  3 Conflict:  0.0 Success 0.735736126293 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.72540283203 Cost:  3 Conflict:  0.0 Success 0.735736126293 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.78302407265 Cost:  3 Conflict:  0.0 Success 0.735736126293 T =  25
+prob-plan-generator/test_dom1/test_0023_3_8.tar.bz2
+Time:  0.265735864639 Cost:  9 Conflict:  0.826953043301 Success 1.0 T =  10
+Time:  0.76821398735 Cost:  3 Conflict:  0.0 Success 1.0 T =  15
+Time:  1.93049502373 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  3.13187098503 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0023_3_9.tar.bz2
+Time:  0.275973081589 Cost:  9 Conflict:  0.831601380645 Success 1.0 T =  10
+Time:  0.766403198242 Cost:  3 Conflict:  0.0 Success 1.0 T =  15
+Time:  1.71579122543 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  2.7567448616 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0024_3_1.tar.bz2
+Time:  0.278552055359 Cost:  9 Conflict:  0.4 Success 1.0 T =  10
+Time:  1.32888698578 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  5.71467399597 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  37.2985770702 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0024_3_2.tar.bz2
+Time:  0.282922029495 Cost:  9 Conflict:  0.4 Success 1.0 T =  10
+Time:  1.33749699593 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  4.25545215607 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  45.7241849899 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0024_3_3.tar.bz2
+Time:  0.29018497467 Cost:  9 Conflict:  0.4 Success 1.0 T =  10
+Time:  1.42645192146 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  4.84129691124 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  36.6703591347 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0024_3_4.tar.bz2
+Time:  0.280623912811 Cost:  9 Conflict:  0.4 Success 1.0 T =  10
+Time:  1.42618393898 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  15
+Time:  4.84461808205 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  20
+Time:  36.6156160831 Cost:  5 Conflict:  0.0 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0024_3_5.tar.bz2
+Time:  0.277961015701 Cost:  9 Conflict:  0.389571599233 Success 1.0 T =  10
+Time:  1.45064687729 Cost:  5 Conflict:  0.0 Success 0.189571599233 T =  15
+Time:  6.12072014809 Cost:  5 Conflict:  0.0 Success 0.189571599233 T =  20
+Time:  13.5164530277 Cost:  5 Conflict:  0.0 Success 0.189571599233 T =  25
+prob-plan-generator/test_dom1/test_0024_3_6.tar.bz2
+Time:  0.327680826187 Cost:  9 Conflict:  0.284814262665 Success 1.0 T =  10
+Time:  1.56375813484 Cost:  5 Conflict:  0.0 Success 0.0528311688013 T =  15
+Time:  4.58370280266 Cost:  5 Conflict:  0.0 Success 0.0528311688013 T =  20
+Time:  32.265130043 Cost:  5 Conflict:  0.0 Success 0.0528311688013 T =  25
+prob-plan-generator/test_dom1/test_0025_3_1.tar.bz2
+Time:  0.270642995834 Cost:  9 Conflict:  0.749296849334 Success 1.0 T =  10
+Time:  0.689035892487 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  1.94497489929 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  2.70123291016 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0025_3_2.tar.bz2
+Time:  0.273836135864 Cost:  9 Conflict:  0.749296849334 Success 1.0 T =  10
+Time:  0.692118883133 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  1.94707894325 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  2.71275496483 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0025_3_3.tar.bz2
+Time:  0.283572912216 Cost:  9 Conflict:  0.812675787667 Success 1.0 T =  10
+Time:  0.672105073929 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  1.62629389763 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  2.86532092094 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0025_3_4.tar.bz2
+Time:  0.265913963318 Cost:  9 Conflict:  0.812675787667 Success 1.0 T =  10
+Time:  0.67125082016 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  1.62186789513 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  2.72414207458 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0025_3_5.tar.bz2
+Time:  0.26740193367 Cost:  9 Conflict:  0.812675787667 Success 1.0 T =  10
+Time:  0.674427986145 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  15
+Time:  1.62184000015 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  20
+Time:  2.71909403801 Cost:  3 Conflict:  0.0 Success 0.468310530833 T =  25
+prob-plan-generator/test_dom1/test_0025_3_6.tar.bz2
+Time:  0.272094964981 Cost:  9 Conflict:  0.802021399011 Success 1.0 T =  10
+Time:  0.594920873642 Cost:  3 Conflict:  0.0 Success 0.494946502471 T =  15
+Time:  1.58058619499 Cost:  3 Conflict:  0.0 Success 0.494946502471 T =  20
+Time:  3.82168698311 Cost:  3 Conflict:  0.0 Success 0.494946502471 T =  25
+prob-plan-generator/test_dom1/test_0025_3_7.tar.bz2
+Time:  0.261344194412 Cost:  9 Conflict:  0.826953043301 Success 1.0 T =  10
+Time:  0.723820924759 Cost:  3 Conflict:  0.00706736880562 Success 0.117096794491 T =  15
+Time:  2.03935790062 Cost:  3 Conflict:  0.00353368440281 Success 0.117096794491 T =  20
+Time:  3.45993614197 Cost:  3 Conflict:  0.00235578960187 Success 0.117096794491 T =  25
+prob-plan-generator/test_dom1/test_0025_3_8.tar.bz2
+Time:  0.269187927246 Cost:  9 Conflict:  0.811577240214 Success 1.0 T =  10
+Time:  0.715115070343 Cost:  3 Conflict:  0.0578862010691 Success 0.0507274270817 T =  15
+Time:  3.44143795967 Cost:  3 Conflict:  0.0578862010691 Success 0.0507274270817 T =  20
+Time:  5.03839802742 Cost:  3 Conflict:  0.0578862010691 Success 0.0507274270817 T =  25
+prob-plan-generator/test_dom1/test_0025_3_9.tar.bz2
+Time:  0.261642932892 Cost:  9 Conflict:  0.812169911937 Success 1.0 T =  10
+Time:  0.750079870224 Cost:  3 Conflict:  0.0614340198145 Success 0.0608495596843 T =  15
+Time:  3.03398680687 Cost:  3 Conflict:  0.0614340198145 Success 0.0608495596843 T =  20
+Time:  4.78341197968 Cost:  3 Conflict:  0.0614340198145 Success 0.0608495596843 T =  25
+prob-plan-generator/test_dom1/test_0026_3_1.tar.bz2
+Time:  0.26962018013 Cost:  9 Conflict:  0.0317874458726 Success 1.0 T =  10
+Time:  1.69998002052 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  10.6352880001 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  38.1340429783 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0026_3_2.tar.bz2
+Time:  0.271866798401 Cost:  9 Conflict:  0.0317874458726 Success 1.0 T =  10
+Time:  1.79702711105 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  10.2602460384 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  39.0827760696 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0026_3_3.tar.bz2
+Time:  0.275675058365 Cost:  9 Conflict:  0.00514338714715 Success 1.0 T =  10
+Time:  1.99995112419 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  13.6629519463 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  70.3381710052 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0026_3_4.tar.bz2
+Time:  0.261770009995 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.93646621704 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  7.18599700928 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  102.46667695 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0026_3_5.tar.bz2
+Time:  0.268296003342 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.87443804741 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  11.5556001663 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  88.2615361214 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0026_3_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.273555040359 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.99603414536 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  10.6002459526 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  99.5320858955 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0026_3_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.257322072983 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.86393785477 Cost:  9 Conflict:  4.52802952124e-05 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  14.4102139473 Cost:  9 Conflict:  2.8814733317e-05 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  171.491912842 Cost:  9 Conflict:  1.98101291554e-05 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0027_3_1.tar.bz2
+Time:  0.291682004929 Cost:  9 Conflict:  0.566324897243 Success 1.0 T =  10
+Time:  2.20687890053 Cost:  5 Conflict:  0.0872202136294 Success 0.389458504594 T =  15
+Time:  6.10399603844 Cost:  5 Conflict:  0.0508784579505 Success 0.389458504594 T =  20
+Time:  37.2348821163 Cost:  5 Conflict:  0.0359142056121 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0027_3_2.tar.bz2
+Time:  0.29886007309 Cost:  9 Conflict:  0.566324897243 Success 1.0 T =  10
+Time:  2.20437192917 Cost:  5 Conflict:  0.0872202136294 Success 0.389458504594 T =  15
+Time:  7.21775603294 Cost:  5 Conflict:  0.0508784579505 Success 0.389458504594 T =  20
+Time:  41.6872382164 Cost:  5 Conflict:  0.0359142056121 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0027_3_3.tar.bz2
+Time:  0.290359020233 Cost:  9 Conflict:  0.566324897243 Success 1.0 T =  10
+Time:  2.18243813515 Cost:  5 Conflict:  0.0872202136294 Success 0.389458504594 T =  15
+Time:  7.22908997536 Cost:  5 Conflict:  0.0508784579505 Success 0.389458504594 T =  20
+Time:  36.9546248913 Cost:  5 Conflict:  0.0359142056121 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0027_3_4.tar.bz2
+Time:  0.297787904739 Cost:  9 Conflict:  0.566324897243 Success 1.0 T =  10
+Time:  2.00695085526 Cost:  5 Conflict:  0.0872202136294 Success 0.389458504594 T =  15
+Time:  6.07150888443 Cost:  5 Conflict:  0.0508784579505 Success 0.389458504594 T =  20
+Time:  36.9982509613 Cost:  5 Conflict:  0.0359142056121 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0027_3_5.tar.bz2
+Time:  0.282955884933 Cost:  9 Conflict:  0.503314558773 Success 1.0 T =  10
+Time:  1.99502182007 Cost:  5 Conflict:  0.0631905330776 Success 0.189571599233 T =  15
+Time:  6.84056806564 Cost:  5 Conflict:  0.0344675634969 Success 0.189571599233 T =  20
+Time:  13.5397450924 Cost:  5 Conflict:  0.0236964499041 Success 0.189571599233 T =  25
+prob-plan-generator/test_dom1/test_0027_3_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.25367307663 Cost:  9 Conflict:  0.245938036363 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.43913888931 Cost:  5 Conflict:  0.0287112727271 Success 0.0574225454542 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.10243010521 Cost:  5 Conflict:  0.0127605656565 Success 0.0574225454542 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  11.9049129486 Cost:  5 Conflict:  0.00820322077917 Success 0.0574225454542 T =  25
+prob-plan-generator/test_dom1/test_0028_3_1.tar.bz2
+Time:  0.267470121384 Cost:  9 Conflict:  0.0635748917451 Success 1.0 T =  10
+Time:  1.02047991753 Cost:  3 Conflict:  0.0 Success 0.0794686146814 T =  15
+Time:  2.96305084229 Cost:  3 Conflict:  0.0 Success 0.0794686146814 T =  20
+Time:  5.49162006378 Cost:  3 Conflict:  0.0 Success 0.0794686146814 T =  25
+prob-plan-generator/test_dom1/test_0028_3_2.tar.bz2
+Time:  0.275187015533 Cost:  9 Conflict:  0.0635748917451 Success 1.0 T =  10
+Time:  1.02123999596 Cost:  3 Conflict:  0.0 Success 0.0794686146814 T =  15
+Time:  3.56527304649 Cost:  3 Conflict:  0.0 Success 0.0794686146814 T =  20
+Time:  6.05436491966 Cost:  3 Conflict:  0.0 Success 0.0794686146814 T =  25
+prob-plan-generator/test_dom1/test_0028_3_3.tar.bz2
+Time:  0.270539999008 Cost:  9 Conflict:  0.00514338714715 Success 1.0 T =  10
+Time:  1.11075592041 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  15
+Time:  2.61556792259 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  20
+Time:  6.75321316719 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  25
+prob-plan-generator/test_dom1/test_0028_3_4.tar.bz2
+Time:  0.267091989517 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.81831908226 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  15
+Time:  1.82823514938 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  20
+Time:  5.3847219944 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  25
+prob-plan-generator/test_dom1/test_0028_3_5.tar.bz2
+Time:  0.269593954086 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.817792892456 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  15
+Time:  1.74494719505 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  20
+Time:  4.77048206329 Cost:  3 Conflict:  0.0 Success 0.0128584678679 T =  25
+prob-plan-generator/test_dom1/test_0028_3_6.tar.bz2
+Time:  0.276840209961 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.61132597923 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  2.12528085709 Cost:  3 Conflict:  0.0 Success 0.00578750387795 T =  20
+Time:  4.05233812332 Cost:  3 Conflict:  0.0 Success 0.00578750387795 T =  25
+prob-plan-generator/test_dom1/test_0028_3_7.tar.bz2
+Time:  0.278318881989 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.89583182335 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  1.71269893646 Cost:  3 Conflict:  0.0 Success 0.0011689202605 T =  20
+Time:  2.73120188713 Cost:  3 Conflict:  0.0 Success 0.0011689202605 T =  25
+prob-plan-generator/test_dom1/test_0029_3_1.tar.bz2
+Time:  0.2855489254 Cost:  9 Conflict:  0.466666666667 Success 1.0 T =  10
+Time:  1.95431995392 Cost:  5 Conflict:  0.047619047619 Success 0.333333333333 T =  15
+Time:  17.4130430222 Cost:  5 Conflict:  0.0277777777778 Success 0.333333333333 T =  20
+Time:  45.9175019264 Cost:  5 Conflict:  0.0196078431373 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0029_3_2.tar.bz2
+Time:  0.286180973053 Cost:  9 Conflict:  0.466666666667 Success 1.0 T =  10
+Time:  1.98512506485 Cost:  5 Conflict:  0.047619047619 Success 0.333333333333 T =  15
+Time:  20.9656579494 Cost:  5 Conflict:  0.0277777777778 Success 0.333333333333 T =  20
+Time:  58.7131538391 Cost:  5 Conflict:  0.0196078431373 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0029_3_3.tar.bz2
+Time:  0.283490896225 Cost:  9 Conflict:  0.466666666667 Success 1.0 T =  10
+Time:  1.88532781601 Cost:  5 Conflict:  0.047619047619 Success 0.333333333333 T =  15
+Time:  22.7650699615 Cost:  5 Conflict:  0.0277777777778 Success 0.333333333333 T =  20
+Time:  45.7958080769 Cost:  5 Conflict:  0.0196078431373 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0029_3_4.tar.bz2
+Time:  0.284482002258 Cost:  9 Conflict:  0.466666666667 Success 1.0 T =  10
+Time:  1.94411802292 Cost:  5 Conflict:  0.047619047619 Success 0.333333333333 T =  15
+Time:  17.4165508747 Cost:  5 Conflict:  0.0277777777778 Success 0.333333333333 T =  20
+Time:  47.5439190865 Cost:  5 Conflict:  0.0196078431373 Success 0.333333333333 T =  25
+prob-plan-generator/test_dom1/test_0029_3_5.tar.bz2
+Time:  0.281993150711 Cost:  9 Conflict:  0.547020594099 Success 1.0 T =  10
+Time:  2.08874702454 Cost:  7 Conflict:  0.0 Success 0.433775742623 T =  15
+Time:  8.42527413368 Cost:  7 Conflict:  0.0 Success 0.433775742623 T =  20
+Time:  58.4721181393 Cost:  7 Conflict:  0.0 Success 0.433775742623 T =  25
+prob-plan-generator/test_dom1/test_0029_3_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.296044826508 Cost:  9 Conflict:  0.658860055519 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.86183309555 Cost:  7 Conflict:  0.0 Success 0.211941557617 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  7.56391811371 Cost:  7 Conflict:  0.0 Success 0.211941557617 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  47.3853621483 Cost:  7 Conflict:  0.0 Success 0.211941557617 T =  25
+prob-plan-generator/test_dom1/test_0029_3_7.tar.bz2
+Time:  0.285071849823 Cost:  9 Conflict:  0.727310662582 Success 1.0 T =  10
+Time:  2.34274411201 Cost:  7 Conflict:  0.0 Success 0.113805592429 T =  15
+Time:  8.14844298363 Cost:  7 Conflict:  0.0 Success 0.113805592429 T =  20
+Time:  71.6457359791 Cost:  7 Conflict:  0.0 Success 0.113805592429 T =  25
+prob-plan-generator/test_dom1/test_0029_3_8.tar.bz2
+Time:  0.272732973099 Cost:  9 Conflict:  0.813826136087 Success 1.0 T =  10
+Time:  1.44132399559 Cost:  5 Conflict:  0.0115217800721 Success 0.0691306804326 T =  15
+Time:  4.05073285103 Cost:  5 Conflict:  0.00628460731206 Success 0.0691306804326 T =  20
+Time:  17.8508679867 Cost:  5 Conflict:  0.00432066752704 Success 0.0691306804326 T =  25
+prob-plan-generator/test_dom1/test_0029_3_9.tar.bz2
+Time:  0.278930902481 Cost:  9 Conflict:  0.816425484649 Success 1.0 T =  10
+Time:  1.36516809464 Cost:  5 Conflict:  0.0136879038738 Success 0.0821274232428 T =  15
+Time:  8.07314586639 Cost:  5 Conflict:  0.00746612938571 Success 0.0821274232428 T =  20
+Time:  8.49259114265 Cost:  5 Conflict:  0.00513296395268 Success 0.0821274232428 T =  25
+prob-plan-generator/test_dom1/test_0030_3_1.tar.bz2
+Time:  0.269737958908 Cost:  9 Conflict:  0.844216598162 Success 1.0 T =  10
+Time:  0.591325998306 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  1.579652071 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  3.14493012428 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0030_3_2.tar.bz2
+Time:  0.283133983612 Cost:  9 Conflict:  0.844216598162 Success 1.0 T =  10
+Time:  0.58909702301 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  1.99743103981 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  3.12693786621 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0030_3_3.tar.bz2
+Time:  0.270532131195 Cost:  9 Conflict:  0.844216598162 Success 1.0 T =  10
+Time:  0.590803146362 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  1.57658982277 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  3.11737298965 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0030_3_4.tar.bz2
+Time:  0.269684076309 Cost:  9 Conflict:  0.844216598162 Success 1.0 T =  10
+Time:  0.593665122986 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  1.57269787788 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  3.11928296089 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0030_3_5.tar.bz2
+Time:  0.264412879944 Cost:  9 Conflict:  0.844216598162 Success 1.0 T =  10
+Time:  0.591337203979 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  1.57797694206 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  3.11432003975 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0030_3_6.tar.bz2
+Time:  0.281836032867 Cost:  9 Conflict:  0.844216598162 Success 1.0 T =  10
+Time:  0.686997890472 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  1.57123303413 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  2.56414198875 Cost:  3 Conflict:  0.0 Success 0.389458504594 T =  25
+prob-plan-generator/test_dom1/test_0030_3_7.tar.bz2
+Time:  0.321276903152 Cost:  5 Conflict:  0.666666666667 Success 0.106506978919 T =  10
+Time:  0.555831193924 Cost:  3 Conflict:  0.0 Success 0.786986042162 T =  15
+Time:  1.456346035 Cost:  3 Conflict:  0.0 Success 0.786986042162 T =  20
+Time:  2.27537918091 Cost:  3 Conflict:  0.0 Success 0.786986042162 T =  25
+prob-plan-generator/test_dom1/test_0030_3_8.tar.bz2
+Time:  0.344711065292 Cost:  5 Conflict:  0.666666666667 Success 0.0486095734395 T =  10
+Time:  0.538338184357 Cost:  3 Conflict:  0.0 Success 0.951390426561 T =  15
+Time:  1.46365094185 Cost:  3 Conflict:  0.0 Success 0.951390426561 T =  20
+Time:  2.32800507545 Cost:  3 Conflict:  0.0 Success 0.951390426561 T =  25
+prob-plan-generator/test_dom1/test_0030_3_9.tar.bz2
+Time:  0.345219135284 Cost:  5 Conflict:  0.666666666667 Success 0.0821274232428 T =  10
+Time:  0.560837984085 Cost:  3 Conflict:  0.0112911942809 Success 0.977417611438 T =  15
+Time:  1.35193395615 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  2.64909100533 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_1.tar.bz2
+Time:  0.2814848423 Cost:  9 Conflict:  0.0400547944635 Success 1.0 T =  10
+Time:  1.98309803009 Cost:  9 Conflict:  0.0 Success 0.949931506921 T =  15
+Time:  11.3727090359 Cost:  9 Conflict:  0.0 Success 0.949931506921 T =  20
+Time:  67.0639190674 Cost:  9 Conflict:  0.0 Success 0.949931506921 T =  25
+prob-plan-generator/test_dom1/test_0031_4_10.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.275757789612 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.07748603821 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  8.93324398994 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  46.8733279705 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_2.tar.bz2
+Time:  0.279163837433 Cost:  9 Conflict:  0.0400547944635 Success 1.0 T =  10
+Time:  2.31887698174 Cost:  9 Conflict:  0.0 Success 0.949931506921 T =  15
+Time:  11.7584791183 Cost:  9 Conflict:  0.0 Success 0.949931506921 T =  20
+Time:  68.2713589668 Cost:  9 Conflict:  0.0 Success 0.949931506921 T =  25
+prob-plan-generator/test_dom1/test_0031_4_3.tar.bz2
+Time:  0.272150993347 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.53363084793 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  5.91608500481 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  180.440849066 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_4.tar.bz2
+Time:  0.267071008682 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.5468120575 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  6.44132590294 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  178.530716181 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_5.tar.bz2
+Time:  0.274493932724 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.81404685974 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  5.85510993004 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  178.724046946 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_6.tar.bz2
+Time:  0.269558906555 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.7433950901 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  10.9079871178 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  36.4505798817 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.278768062592 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.4594438076 Cost:  9 Conflict:  -2.43728313727e-18 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  17.7898089886 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  85.4788570404 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_8.tar.bz2
+Time:  0.271101951599 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.97949814796 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  18.4355900288 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  50.3615870476 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0031_4_9.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.283153057098 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.21664118767 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  9.29456996918 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  47.2112090588 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0032_4_1.tar.bz2
+Time:  0.269082069397 Cost:  9 Conflict:  0.685953424706 Success 1.0 T =  10
+Time:  0.666157007217 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  1.91385316849 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  2.93379688263 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0032_4_2.tar.bz2
+Time:  0.281250953674 Cost:  9 Conflict:  0.685953424706 Success 1.0 T =  10
+Time:  0.669104099274 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  1.92306804657 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  2.61665511131 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0032_4_3.tar.bz2
+Time:  0.29283618927 Cost:  9 Conflict:  0.716410762957 Success 1.0 T =  10
+Time:  0.623054981232 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  15
+Time:  1.85243105888 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  20
+Time:  2.72960710526 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  25
+prob-plan-generator/test_dom1/test_0032_4_4.tar.bz2
+Time:  0.279360055923 Cost:  9 Conflict:  0.724300903718 Success 1.0 T =  10
+Time:  0.611406803131 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  15
+Time:  1.5637280941 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  20
+Time:  1.95255494118 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  25
+prob-plan-generator/test_dom1/test_0032_4_5.tar.bz2
+Time:  0.269613027573 Cost:  9 Conflict:  0.724300903718 Success 1.0 T =  10
+Time:  0.624688863754 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  15
+Time:  1.39215707779 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  20
+Time:  1.95228219032 Cost:  3 Conflict:  0.0 Success 0.386385622173 T =  25
+prob-plan-generator/test_dom1/test_0032_4_6.tar.bz2
+Time:  0.265627145767 Cost:  9 Conflict:  0.702027048584 Success 1.0 T =  10
+Time:  0.630664110184 Cost:  3 Conflict:  0.0 Success 0.0785270124589 T =  15
+Time:  1.64412903786 Cost:  3 Conflict:  0.0 Success 0.0785270124589 T =  20
+Time:  5.44169521332 Cost:  3 Conflict:  0.0 Success 0.0785270124589 T =  25
+prob-plan-generator/test_dom1/test_0032_4_7.tar.bz2
+Time:  0.263264894485 Cost:  9 Conflict:  0.707341681116 Success 1.0 T =  10
+Time:  0.617247104645 Cost:  3 Conflict:  0.0 Success 0.0393949317691 T =  15
+Time:  1.83228611946 Cost:  3 Conflict:  0.0 Success 0.0393949317691 T =  20
+Time:  3.89427995682 Cost:  3 Conflict:  0.0 Success 0.0393949317691 T =  25
+prob-plan-generator/test_dom1/test_0032_4_8.tar.bz2
+Time:  0.331081867218 Cost:  9 Conflict:  0.663136512229 Success 1.0 T =  10
+Time:  1.97262907028 Cost:  3 Conflict:  0.078920640286 Success 0.0206938142402 T =  15
+Time:  3.55640602112 Cost:  3 Conflict:  0.078920640286 Success 0.0206938142402 T =  20
+Time:  5.83354401588 Cost:  3 Conflict:  0.078920640286 Success 0.0206938142402 T =  25
+prob-plan-generator/test_dom1/test_0033_4_1.tar.bz2
+Time:  0.27535700798 Cost:  9 Conflict:  0.117789236075 Success 1.0 T =  10
+Time:  0.683549165726 Cost:  3 Conflict:  0.0 Success 0.0736182725469 T =  15
+Time:  2.99217700958 Cost:  3 Conflict:  0.0 Success 0.0736182725469 T =  20
+Time:  6.36271810532 Cost:  3 Conflict:  0.0 Success 0.0736182725469 T =  25
+prob-plan-generator/test_dom1/test_0033_4_2.tar.bz2
+Time:  0.272984027863 Cost:  9 Conflict:  0.117789236075 Success 1.0 T =  10
+Time:  0.684433221817 Cost:  3 Conflict:  0.0 Success 0.0736182725469 T =  15
+Time:  3.85898208618 Cost:  3 Conflict:  0.0 Success 0.0736182725469 T =  20
+Time:  6.8963599205 Cost:  3 Conflict:  0.0 Success 0.0736182725469 T =  25
+prob-plan-generator/test_dom1/test_0033_4_3.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.271405935287 Cost:  9 Conflict:  0.00473949232056 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.969138145447 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.47288489342 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.58586287498 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  25
+prob-plan-generator/test_dom1/test_0033_4_4.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.267504930496 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.853524923325 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.45639491081 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.77309894562 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  25
+prob-plan-generator/test_dom1/test_0033_4_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.268149852753 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.853074073792 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.45384597778 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.95331382751 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  25
+prob-plan-generator/test_dom1/test_0033_4_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.283771038055 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.852993011475 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.45763492584 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.93754005432 Cost:  3 Conflict:  0.0 Success 0.0118487308014 T =  25
+prob-plan-generator/test_dom1/test_0033_4_7.tar.bz2
+Time:  0.274979114532 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.92607092857 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  2.50360703468 Cost:  3 Conflict:  0.0 Success 0.00555950555757 T =  20
+Time:  3.22355699539 Cost:  3 Conflict:  0.0 Success 0.00555950555757 T =  25
+prob-plan-generator/test_dom1/test_0033_4_8.tar.bz2
+Time:  0.269471883774 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.72200417519 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  2.05739188194 Cost:  3 Conflict:  0.0 Success 0.00106199782793 T =  20
+Time:  3.5175640583 Cost:  3 Conflict:  0.0 Success 0.00106199782793 T =  25
+prob-plan-generator/test_dom1/test_0034_4_1.tar.bz2
+Time:  0.274013996124 Cost:  9 Conflict:  0.13475718936 Success 1.0 T =  10
+Time:  1.27501988411 Cost:  5 Conflict:  0.0 Success 0.0962551352575 T =  15
+Time:  4.02651500702 Cost:  5 Conflict:  0.0 Success 0.0962551352575 T =  20
+Time:  31.7998690605 Cost:  5 Conflict:  0.0 Success 0.0962551352575 T =  25
+prob-plan-generator/test_dom1/test_0034_4_2.tar.bz2
+Time:  0.28298997879 Cost:  9 Conflict:  0.13475718936 Success 1.0 T =  10
+Time:  1.27309894562 Cost:  5 Conflict:  0.0 Success 0.0962551352575 T =  15
+Time:  4.42787599564 Cost:  5 Conflict:  0.0 Success 0.0962551352575 T =  20
+Time:  39.1276109219 Cost:  5 Conflict:  0.0 Success 0.0962551352575 T =  25
+prob-plan-generator/test_dom1/test_0034_4_3.tar.bz2
+Time:  0.270205020905 Cost:  9 Conflict:  0.0138893349793 Success 1.0 T =  10
+Time:  1.49207997322 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  15
+Time:  2.84156990051 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  20
+Time:  8.99048399925 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  25
+prob-plan-generator/test_dom1/test_0034_4_4.tar.bz2
+Time:  0.275496006012 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.55915808678 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  15
+Time:  6.71085381508 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  20
+Time:  25.8354029655 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  25
+prob-plan-generator/test_dom1/test_0034_4_5.tar.bz2
+Time:  0.273910045624 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.1493601799 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  15
+Time:  6.74912500381 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  20
+Time:  25.7835991383 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  25
+prob-plan-generator/test_dom1/test_0034_4_6.tar.bz2
+Time:  0.278509140015 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.06077313423 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  15
+Time:  6.6999540329 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  20
+Time:  31.406692028 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  25
+prob-plan-generator/test_dom1/test_0034_4_7.tar.bz2
+Time:  0.267858028412 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.0611538887 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  15
+Time:  6.72798609734 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  20
+Time:  25.8540949821 Cost:  5 Conflict:  0.0 Success 0.0173616687242 T =  25
+prob-plan-generator/test_dom1/test_0034_4_8.tar.bz2
+Time:  0.268388986588 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.02890205383 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  3.65180206299 Cost:  5 Conflict:  0.0 Success 0.0085550541783 T =  20
+Time:  24.894701004 Cost:  5 Conflict:  0.0 Success 0.0085550541783 T =  25
+prob-plan-generator/test_dom1/test_0034_4_9.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.296112060547 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.46996593475 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.60511112213 Cost:  5 Conflict:  0.0 Success 0.00146701205038 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  22.4949879646 Cost:  5 Conflict:  0.0 Success 0.00146701205038 T =  25
+prob-plan-generator/test_dom1/test_0035_4_1.tar.bz2
+Time:  0.272619962692 Cost:  9 Conflict:  0.575763865819 Success 1.0 T =  10
+Time:  2.04956007004 Cost:  5 Conflict:  0.062772809221 Success 0.280295167727 T =  15
+Time:  6.83103513718 Cost:  5 Conflict:  0.0366174720456 Success 0.280295167727 T =  20
+Time:  32.5111689568 Cost:  5 Conflict:  0.0258476273263 Success 0.280295167727 T =  25
+prob-plan-generator/test_dom1/test_0035_4_2.tar.bz2
+Time:  0.276440858841 Cost:  9 Conflict:  0.575763865819 Success 1.0 T =  10
+Time:  1.97760796547 Cost:  5 Conflict:  0.062772809221 Success 0.280295167727 T =  15
+Time:  6.84166312218 Cost:  5 Conflict:  0.0366174720456 Success 0.280295167727 T =  20
+Time:  25.6198341846 Cost:  5 Conflict:  0.0258476273263 Success 0.280295167727 T =  25
+prob-plan-generator/test_dom1/test_0035_4_3.tar.bz2
+Time:  0.287199020386 Cost:  9 Conflict:  0.575763865819 Success 1.0 T =  10
+Time:  2.06010293961 Cost:  5 Conflict:  0.062772809221 Success 0.280295167727 T =  15
+Time:  6.82725310326 Cost:  5 Conflict:  0.0366174720456 Success 0.280295167727 T =  20
+Time:  25.6190459728 Cost:  5 Conflict:  0.0258476273263 Success 0.280295167727 T =  25
+prob-plan-generator/test_dom1/test_0035_4_4.tar.bz2
+Time:  0.2736120224 Cost:  9 Conflict:  0.575763865819 Success 1.0 T =  10
+Time:  2.05606603622 Cost:  5 Conflict:  0.062772809221 Success 0.280295167727 T =  15
+Time:  8.30151987076 Cost:  5 Conflict:  0.0366174720456 Success 0.280295167727 T =  20
+Time:  25.5656599998 Cost:  5 Conflict:  0.0258476273263 Success 0.280295167727 T =  25
+prob-plan-generator/test_dom1/test_0035_4_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.280611991882 Cost:  9 Conflict:  0.550594717108 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.58672690392 Cost:  5 Conflict:  0.053120411683 Success 0.159361235049 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.76751184464 Cost:  5 Conflict:  0.0289747700089 Success 0.159361235049 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  38.5945920944 Cost:  5 Conflict:  0.0199201543811 Success 0.159361235049 T =  25
+prob-plan-generator/test_dom1/test_0035_4_6.tar.bz2
+Time:  0.270517110825 Cost:  9 Conflict:  0.28688681088 Success 1.0 T =  10
+Time:  1.41736102104 Cost:  5 Conflict:  0.0271521283999 Success 0.0543042567998 T =  15
+Time:  6.46053791046 Cost:  5 Conflict:  0.0120676126222 Success 0.0543042567998 T =  20
+Time:  18.6630868912 Cost:  5 Conflict:  0.0077577509714 Success 0.0543042567998 T =  25
+prob-plan-generator/test_dom1/test_0036_4_1.tar.bz2
+Time:  0.277315139771 Cost:  9 Conflict:  0.0736182725469 Success 1.0 T =  10
+Time:  1.36037802696 Cost:  7 Conflict:  0.0 Success 0.0736182725469 T =  15
+Time:  17.4086849689 Cost:  7 Conflict:  0.0 Success 0.0736182725469 T =  20
+Time:  85.7938098907 Cost:  7 Conflict:  0.0 Success 0.0736182725469 T =  25
+prob-plan-generator/test_dom1/test_0036_4_2.tar.bz2
+Time:  0.269520044327 Cost:  9 Conflict:  0.0736182725469 Success 1.0 T =  10
+Time:  1.42455101013 Cost:  7 Conflict:  0.0 Success 0.0736182725469 T =  15
+Time:  17.2537488937 Cost:  7 Conflict:  0.0 Success 0.0736182725469 T =  20
+Time:  74.2913441658 Cost:  7 Conflict:  0.0 Success 0.0736182725469 T =  25
+prob-plan-generator/test_dom1/test_0036_4_3.tar.bz2
+Time:  0.271251916885 Cost:  9 Conflict:  0.0101561813626 Success 1.0 T =  10
+Time:  1.4386548996 Cost:  7 Conflict:  0.0 Success 0.0126952267032 T =  15
+Time:  5.09557414055 Cost:  7 Conflict:  0.0 Success 0.0126952267032 T =  20
+Time:  90.2569479942 Cost:  7 Conflict:  0.0 Success 0.0126952267032 T =  25
+prob-plan-generator/test_dom1/test_0036_4_4.tar.bz2
+Time:  0.265988111496 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.71464705467 Cost:  7 Conflict:  0.0 Success 0.0128357781185 T =  15
+Time:  13.6084320545 Cost:  7 Conflict:  0.0 Success 0.0128357781185 T =  20
+Time:  39.3187968731 Cost:  7 Conflict:  0.0 Success 0.0128357781185 T =  25
+prob-plan-generator/test_dom1/test_0036_4_5.tar.bz2
+Time:  0.271008968353 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.43622589111 Cost:  7 Conflict:  0.000441144108127 Success 0.014600354551 T =  15
+Time:  16.9615979195 Cost:  7 Conflict:  0.0 Success 0.0128357781185 T =  20
+Time:  90.8668398857 Cost:  7 Conflict:  0.0 Success 0.0128357781185 T =  25
+prob-plan-generator/test_dom1/test_0036_4_6.tar.bz2
+Time:  0.274723052979 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.53628015518 Cost:  7 Conflict:  0.000783070167059 Success 0.0259169325097 T =  15
+Time:  21.0908780098 Cost:  7 Conflict:  0.0 Success 0.0227846518415 T =  20
+Time:  85.3999390602 Cost:  7 Conflict:  0.0 Success 0.0227846518415 T =  25
+prob-plan-generator/test_dom1/test_0036_4_7.tar.bz2
+Time:  0.271435976028 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.69658017159 Cost:  7 Conflict:  0.000966379159283 Success 0.0319838304452 T =  15
+Time:  21.9828019142 Cost:  7 Conflict:  0.0 Success 0.0281183138081 T =  20
+Time:  110.665387869 Cost:  7 Conflict:  0.0 Success 0.0281183138081 T =  25
+prob-plan-generator/test_dom1/test_0036_4_8.tar.bz2
+Time:  0.277371168137 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.79946613312 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  14.7631869316 Cost:  7 Conflict:  0.0 Success 0.0120585439235 T =  20
+Time:  45.9821619987 Cost:  7 Conflict:  0.0 Success 0.0120585439235 T =  25
+prob-plan-generator/test_dom1/test_0036_4_9.tar.bz2
+Time:  0.273875951767 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.04001808167 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  12.7877922058 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  97.7452669144 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0037_4_1.tar.bz2
+Time:  0.280821084976 Cost:  9 Conflict:  0.25019014279 Success 1.0 T =  10
+Time:  1.29664611816 Cost:  5 Conflict:  0.0 Success 0.138994523772 T =  15
+Time:  4.84087705612 Cost:  5 Conflict:  0.0 Success 0.138994523772 T =  20
+Time:  16.4697649479 Cost:  5 Conflict:  0.0 Success 0.138994523772 T =  25
+prob-plan-generator/test_dom1/test_0037_4_10.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.277148008347 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.75831389427 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.66435098648 Cost:  5 Conflict:  0.000111501700614 Success 0.00181751098257 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  27.9319529533 Cost:  5 Conflict:  6.08191094256e-05 Success 0.00181751098257 T =  25
+prob-plan-generator/test_dom1/test_0037_4_2.tar.bz2
+Time:  0.27764081955 Cost:  9 Conflict:  0.25019014279 Success 1.0 T =  10
+Time:  1.55251193047 Cost:  5 Conflict:  0.0 Success 0.138994523772 T =  15
+Time:  5.53835892677 Cost:  5 Conflict:  0.0 Success 0.138994523772 T =  20
+Time:  15.114552021 Cost:  5 Conflict:  0.0 Success 0.138994523772 T =  25
+prob-plan-generator/test_dom1/test_0037_4_3.tar.bz2
+Time:  0.268501996994 Cost:  9 Conflict:  0.0389622090714 Success 1.0 T =  10
+Time:  1.54789495468 Cost:  5 Conflict:  0.0 Success 0.0324685075595 T =  15
+Time:  4.81567597389 Cost:  5 Conflict:  0.0 Success 0.0324685075595 T =  20
+Time:  24.7783651352 Cost:  5 Conflict:  0.0 Success 0.0324685075595 T =  25
+prob-plan-generator/test_dom1/test_0037_4_4.tar.bz2
+Time:  0.289321899414 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.94347882271 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  15
+Time:  4.19954991341 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  20
+Time:  15.3658769131 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  25
+prob-plan-generator/test_dom1/test_0037_4_5.tar.bz2
+Time:  0.270631074905 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.87420082092 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  15
+Time:  5.56192684174 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  20
+Time:  41.0183210373 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  25
+prob-plan-generator/test_dom1/test_0037_4_6.tar.bz2
+Time:  0.274682044983 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.85372591019 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  15
+Time:  5.57118606567 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  20
+Time:  41.220126152 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  25
+prob-plan-generator/test_dom1/test_0037_4_7.tar.bz2
+Time:  0.270186185837 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.86137509346 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  15
+Time:  4.85327601433 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  20
+Time:  51.3033809662 Cost:  5 Conflict:  0.0 Success 0.0334039846651 T =  25
+prob-plan-generator/test_dom1/test_0037_4_8.tar.bz2
+Time:  0.274435997009 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.09053707123 Cost:  5 Conflict:  0.00201187821643 Success 0.0399278331403 T =  15
+Time:  3.59139299393 Cost:  5 Conflict:  0.0 Success 0.0345361191438 T =  20
+Time:  19.8453278542 Cost:  5 Conflict:  0.0 Success 0.0345361191438 T =  25
+prob-plan-generator/test_dom1/test_0037_4_9.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.278580188751 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.00890183449 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.73461890221 Cost:  5 Conflict:  0.0 Success 0.0131819797121 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  18.249049902 Cost:  5 Conflict:  0.0 Success 0.0131819797121 T =  25
+prob-plan-generator/test_dom1/test_0038_4_1.tar.bz2
+Time:  0.284363031387 Cost:  9 Conflict:  0.653964383599 Success 1.0 T =  10
+Time:  2.16277909279 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  11.1729831696 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  69.341750145 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0038_4_2.tar.bz2
+Time:  0.28186583519 Cost:  9 Conflict:  0.653964383599 Success 1.0 T =  10
+Time:  2.28784704208 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  11.1189918518 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  60.5832278728 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0038_4_3.tar.bz2
+Time:  0.279221057892 Cost:  9 Conflict:  0.704032876678 Success 1.0 T =  10
+Time:  1.69995903969 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  13.9643950462 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  46.5779929161 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0038_4_4.tar.bz2
+Time:  0.287451982498 Cost:  9 Conflict:  0.704032876678 Success 1.0 T =  10
+Time:  1.71925282478 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  13.8248648643 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  57.9156131744 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0038_4_5.tar.bz2
+Time:  0.278885126114 Cost:  9 Conflict:  0.704032876678 Success 1.0 T =  10
+Time:  1.74612808228 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  13.3972401619 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  60.6445400715 Cost:  7 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0038_4_6.tar.bz2
+Time:  0.277465105057 Cost:  9 Conflict:  0.639536076464 Success 1.0 T =  10
+Time:  1.4177570343 Cost:  7 Conflict:  0.0 Success 0.600773205894 T =  15
+Time:  8.59540390968 Cost:  7 Conflict:  0.0 Success 0.600773205894 T =  20
+Time:  42.1664400101 Cost:  7 Conflict:  0.0 Success 0.600773205894 T =  25
+prob-plan-generator/test_dom1/test_0038_4_7.tar.bz2
+Time:  0.355946063995 Cost:  5 Conflict:  0.666666666667 Success 0.0569609563713 T =  10
+Time:  2.05474901199 Cost:  7 Conflict:  0.0324997103469 Success 0.878039622935 T =  15
+Time:  7.78845405579 Cost:  7 Conflict:  0.0 Success 0.878039622935 T =  20
+Time:  39.119697094 Cost:  7 Conflict:  0.0 Success 0.878039622935 T =  25
+prob-plan-generator/test_dom1/test_0039_4_1.tar.bz2
+Time:  0.284446954727 Cost:  9 Conflict:  0.579972602768 Success 1.0 T =  10
+Time:  0.692222118378 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  1.73217105865 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  2.98679208755 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0039_4_2.tar.bz2
+Time:  0.276104927063 Cost:  9 Conflict:  0.579972602768 Success 1.0 T =  10
+Time:  0.6951649189 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  1.73126888275 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  2.9933578968 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0039_4_3.tar.bz2
+Time:  0.279173851013 Cost:  9 Conflict:  0.630041095848 Success 1.0 T =  10
+Time:  0.692824840546 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  1.53497815132 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  4.04276800156 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0039_4_4.tar.bz2
+Time:  0.282922029495 Cost:  9 Conflict:  0.630041095848 Success 1.0 T =  10
+Time:  0.698626995087 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  15
+Time:  1.88599514961 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  20
+Time:  4.21397209167 Cost:  3 Conflict:  0.0 Success 0.369958904152 T =  25
+prob-plan-generator/test_dom1/test_0039_4_5.tar.bz2
+Time:  0.285827875137 Cost:  9 Conflict:  0.519381435285 Success 1.0 T =  10
+Time:  0.65612411499 Cost:  3 Conflict:  0.0 Success 0.183439300554 T =  15
+Time:  1.93287396431 Cost:  3 Conflict:  0.0 Success 0.183439300554 T =  20
+Time:  3.49598312378 Cost:  3 Conflict:  0.0 Success 0.183439300554 T =  25
+prob-plan-generator/test_dom1/test_0039_4_6.tar.bz2
+Time:  0.25469994545 Cost:  9 Conflict:  0.248784150826 Success 1.0 T =  10
+Time:  0.691617012024 Cost:  3 Conflict:  0.0 Success 0.0569609563713 T =  15
+Time:  3.88644313812 Cost:  3 Conflict:  0.0 Success 0.0569609563713 T =  20
+Time:  4.55587697029 Cost:  3 Conflict:  0.0 Success 0.0569609563713 T =  25
+prob-plan-generator/test_dom1/test_0040_4_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.297740221024 Cost:  9 Conflict:  0.432646741759 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.622577905655 Cost:  3 Conflict:  0.0 Success 0.118333494431 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.79361009598 Cost:  3 Conflict:  0.0 Success 0.118333494431 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.10532808304 Cost:  3 Conflict:  0.0 Success 0.118333494431 T =  25
+prob-plan-generator/test_dom1/test_0040_4_2.tar.bz2
+Time:  0.276469945908 Cost:  9 Conflict:  0.305787952298 Success 1.0 T =  10
+Time:  0.624615907669 Cost:  3 Conflict:  0.0 Success 0.138994523772 T =  15
+Time:  1.23957395554 Cost:  3 Conflict:  0.0 Success 0.138994523772 T =  20
+Time:  2.58854413033 Cost:  3 Conflict:  0.0 Success 0.138994523772 T =  25
+prob-plan-generator/test_dom1/test_0040_4_3.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.269259929657 Cost:  9 Conflict:  0.0219620108518 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.931792020798 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.86681199074 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.56743597984 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  25
+prob-plan-generator/test_dom1/test_0040_4_4.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.27832198143 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.11369800568 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.39804387093 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.95146894455 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  25
+prob-plan-generator/test_dom1/test_0040_4_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.278589963913 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.922025203705 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.39756298065 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.44227600098 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  25
+prob-plan-generator/test_dom1/test_0040_4_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.27337884903 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.973268032074 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.34756684303 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.90746498108 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  25
+prob-plan-generator/test_dom1/test_0040_4_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.277293920517 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.905946969986 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.39929199219 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.50975108147 Cost:  3 Conflict:  0.0 Success 0.0274525135648 T =  25
+prob-plan-generator/test_dom1/test_0040_4_8.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.27772808075 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.21009087563 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.29690980911 Cost:  3 Conflict:  0.0 Success 0.0119342239396 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.22630882263 Cost:  3 Conflict:  0.0 Success 0.0119342239396 T =  25
+prob-plan-generator/test_dom1/test_0040_4_9.tar.bz2
+Time:  0.302073955536 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.68945002556 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  3.34083294868 Cost:  3 Conflict:  0.0 Success 0.00179159174861 T =  20
+Time:  3.72944903374 Cost:  3 Conflict:  0.0 Success 0.00179159174861 T =  25
+prob-plan-generator/test_dom1/test_0041_5_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.277703046799 Cost:  9 Conflict:  0.352399119968 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.713315963745 Cost:  3 Conflict:  0.0 Success 0.0790812606738 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.3976662159 Cost:  3 Conflict:  0.0 Success 0.0790812606738 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.30630993843 Cost:  3 Conflict:  0.0 Success 0.0790812606738 T =  25
+prob-plan-generator/test_dom1/test_0041_5_2.tar.bz2
+Time:  0.268905878067 Cost:  9 Conflict:  0.263410766787 Success 1.0 T =  10
+Time:  0.641568183899 Cost:  3 Conflict:  0.0 Success 0.087803588929 T =  15
+Time:  2.67373991013 Cost:  3 Conflict:  0.0 Success 0.087803588929 T =  20
+Time:  4.38195300102 Cost:  3 Conflict:  0.0 Success 0.087803588929 T =  25
+prob-plan-generator/test_dom1/test_0041_5_3.tar.bz2
+Time:  0.27472615242 Cost:  9 Conflict:  0.0204784621924 Success 1.0 T =  10
+Time:  1.10423517227 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  15
+Time:  3.00855207443 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  20
+Time:  2.91117119789 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  25
+prob-plan-generator/test_dom1/test_0041_5_4.tar.bz2
+Time:  0.283066034317 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.933395862579 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  15
+Time:  1.71510720253 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  20
+Time:  4.22888803482 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  25
+prob-plan-generator/test_dom1/test_0041_5_5.tar.bz2
+Time:  0.279970884323 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.783437013626 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  15
+Time:  1.7151761055 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  20
+Time:  5.58823013306 Cost:  3 Conflict:  0.0 Success 0.0170653851604 T =  25
+prob-plan-generator/test_dom1/test_0041_5_6.tar.bz2
+Time:  0.283845901489 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.66847991943 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  2.48142004013 Cost:  3 Conflict:  0.0 Success 0.00705772467571 T =  20
+Time:  4.85471796989 Cost:  3 Conflict:  0.0 Success 0.00705772467571 T =  25
+prob-plan-generator/test_dom1/test_0041_5_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.267150878906 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.22327494621 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.75162816048 Cost:  3 Conflict:  0.0 Success 0.0012303445813 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.4715719223 Cost:  3 Conflict:  0.0 Success 0.0012303445813 T =  25
+prob-plan-generator/test_dom1/test_0042_5_1.tar.bz2
+Time:  0.2813808918 Cost:  9 Conflict:  0.624855908361 Success 1.0 T =  10
+Time:  0.766123771667 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  15
+Time:  2.09134984016 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  20
+Time:  6.32666182518 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  25
+prob-plan-generator/test_dom1/test_0042_5_2.tar.bz2
+Time:  0.273455142975 Cost:  9 Conflict:  0.624855908361 Success 1.0 T =  10
+Time:  0.766855955124 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  15
+Time:  1.68039989471 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  20
+Time:  5.59351801872 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  25
+prob-plan-generator/test_dom1/test_0042_5_3.tar.bz2
+Time:  0.274600982666 Cost:  9 Conflict:  0.624855908361 Success 1.0 T =  10
+Time:  0.769191026688 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  15
+Time:  1.69961810112 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  20
+Time:  5.62481689453 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  25
+prob-plan-generator/test_dom1/test_0042_5_4.tar.bz2
+Time:  0.275765895844 Cost:  9 Conflict:  0.624855908361 Success 1.0 T =  10
+Time:  0.76109290123 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  15
+Time:  1.68092179298 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  20
+Time:  5.59679913521 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  25
+prob-plan-generator/test_dom1/test_0042_5_5.tar.bz2
+Time:  0.276341915131 Cost:  9 Conflict:  0.624855908361 Success 1.0 T =  10
+Time:  0.769712924957 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  15
+Time:  1.68296408653 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  20
+Time:  6.33131504059 Cost:  3 Conflict:  0.0 Success 0.218930114549 T =  25
+prob-plan-generator/test_dom1/test_0042_5_6.tar.bz2
+Time:  0.284996032715 Cost:  9 Conflict:  0.64972759888 Success 1.0 T =  10
+Time:  0.662679195404 Cost:  3 Conflict:  0.0 Success 0.0631323142424 T =  15
+Time:  2.35214877129 Cost:  3 Conflict:  0.0 Success 0.0631323142424 T =  20
+Time:  3.63407897949 Cost:  3 Conflict:  0.0 Success 0.0631323142424 T =  25
+prob-plan-generator/test_dom1/test_0042_5_7.tar.bz2
+Time:  0.324203968048 Cost:  9 Conflict:  0.717226483196 Success 1.0 T =  10
+Time:  0.681564092636 Cost:  3 Conflict:  0.0 Success 0.0347749749008 T =  15
+Time:  2.3793091774 Cost:  3 Conflict:  0.0 Success 0.0347749749008 T =  20
+Time:  8.33020019531 Cost:  3 Conflict:  0.0 Success 0.0347749749008 T =  25
+prob-plan-generator/test_dom1/test_0042_5_8.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.308109998703 Cost:  9 Conflict:  0.685228924744 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.60068511963 Cost:  3 Conflict:  0.0891966356008 Success 0.017380054394 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.88422393799 Cost:  3 Conflict:  0.0891966356008 Success 0.017380054394 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.5103521347 Cost:  3 Conflict:  0.0891966356008 Success 0.017380054394 T =  25
+prob-plan-generator/test_dom1/test_0043_5_1.tar.bz2
+Time:  0.291625022888 Cost:  9 Conflict:  0.672644937877 Success 1.0 T =  10
+Time:  0.705858945847 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  15
+Time:  1.84645318985 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  20
+Time:  3.88915205002 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  25
+prob-plan-generator/test_dom1/test_0043_5_2.tar.bz2
+Time:  0.284018993378 Cost:  9 Conflict:  0.672644937877 Success 1.0 T =  10
+Time:  0.710931062698 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  15
+Time:  1.85301017761 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  20
+Time:  3.84902596474 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  25
+prob-plan-generator/test_dom1/test_0043_5_3.tar.bz2
+Time:  0.280144929886 Cost:  9 Conflict:  0.740024112559 Success 1.0 T =  10
+Time:  0.622189998627 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  15
+Time:  2.46551895142 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  20
+Time:  5.64525103569 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  25
+prob-plan-generator/test_dom1/test_0043_5_4.tar.bz2
+Time:  0.277724981308 Cost:  9 Conflict:  0.746494949014 Success 1.0 T =  10
+Time:  0.60924911499 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  15
+Time:  1.88769102097 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  20
+Time:  7.35676002502 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  25
+prob-plan-generator/test_dom1/test_0043_5_5.tar.bz2
+Time:  0.269949913025 Cost:  9 Conflict:  0.746494949014 Success 1.0 T =  10
+Time:  0.59436416626 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  15
+Time:  1.87332701683 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  20
+Time:  7.40860700607 Cost:  3 Conflict:  0.0 Success 0.316881313733 T =  25
+prob-plan-generator/test_dom1/test_0043_5_6.tar.bz2
+Time:  0.279716968536 Cost:  9 Conflict:  0.735382148961 Success 1.0 T =  10
+Time:  0.598085165024 Cost:  3 Conflict:  0.0 Success 0.330772313799 T =  15
+Time:  1.46500921249 Cost:  3 Conflict:  0.0 Success 0.330772313799 T =  20
+Time:  3.6798210144 Cost:  3 Conflict:  0.0 Success 0.330772313799 T =  25
+prob-plan-generator/test_dom1/test_0043_5_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.325628042221 Cost:  5 Conflict:  0.666666666667 Success 0.0937314556806 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.577265977859 Cost:  3 Conflict:  0.00123582658296 Success 0.692586984258 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.61884999275 Cost:  3 Conflict:  0.0 Success 0.692586984258 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.39569497108 Cost:  3 Conflict:  0.0 Success 0.692586984258 T =  25
+prob-plan-generator/test_dom1/test_0043_5_8.tar.bz2
+Time:  0.324536800385 Cost:  5 Conflict:  0.666666666667 Success 0.0452338274711 T =  10
+Time:  0.5554459095 Cost:  3 Conflict:  0.00098663321033 Success 0.99901336679 T =  15
+Time:  1.37716221809 Cost:  3 Conflict:  0.0 Success 0.99901336679 T =  20
+Time:  2.16026616096 Cost:  3 Conflict:  0.0 Success 0.99901336679 T =  25
+prob-plan-generator/test_dom1/test_0043_5_9.tar.bz2
+Time:  0.375632047653 Cost:  5 Conflict:  0.666666666667 Success 0.0528104578008 T =  10
+Time:  0.710142850876 Cost:  3 Conflict:  0.000373424730572 Success 0.999626575269 T =  15
+Time:  1.21554493904 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  2.29408311844 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0044_5_1.tar.bz2
+Time:  0.286375999451 Cost:  9 Conflict:  0.58538102335 Success 1.0 T =  10
+Time:  1.53490591049 Cost:  5 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  9.97723197937 Cost:  5 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  34.6377949715 Cost:  5 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0044_5_2.tar.bz2
+Time:  0.288125038147 Cost:  9 Conflict:  0.58538102335 Success 1.0 T =  10
+Time:  1.46774101257 Cost:  5 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  9.98413991928 Cost:  5 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  34.6570670605 Cost:  5 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0044_5_3.tar.bz2
+Time:  0.33075094223 Cost:  9 Conflict:  0.604128892406 Success 1.0 T =  10
+Time:  1.77835893631 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  15
+Time:  5.62403392792 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  20
+Time:  29.831127882 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0044_5_4.tar.bz2
+Time:  0.282493829727 Cost:  9 Conflict:  0.609820051225 Success 1.0 T =  10
+Time:  1.44954204559 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  15
+Time:  5.857172966 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  20
+Time:  25.3989770412 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0044_5_5.tar.bz2
+Time:  0.27994799614 Cost:  9 Conflict:  0.609820051225 Success 1.0 T =  10
+Time:  1.67693114281 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  15
+Time:  5.83832907677 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  20
+Time:  24.3662109375 Cost:  5 Conflict:  0.0 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0044_5_6.tar.bz2
+Time:  0.280879020691 Cost:  9 Conflict:  0.685849139619 Success 1.0 T =  10
+Time:  1.80084204674 Cost:  5 Conflict:  0.00201308767593 Success 0.0667083098006 T =  15
+Time:  6.09893298149 Cost:  5 Conflict:  0.00100654383797 Success 0.0667083098006 T =  20
+Time:  8.9615008831 Cost:  5 Conflict:  0.000671029225311 Success 0.0667083098006 T =  25
+prob-plan-generator/test_dom1/test_0044_5_7.tar.bz2
+Time:  0.306015968323 Cost:  9 Conflict:  0.708520741441 Success 1.0 T =  10
+Time:  1.55295610428 Cost:  5 Conflict:  0.082235256412 Success 0.0358455912529 T =  15
+Time:  5.91168904305 Cost:  5 Conflict:  0.0448555944065 Success 0.0358455912529 T =  20
+Time:  56.2899179459 Cost:  5 Conflict:  0.0308382211545 Success 0.0358455912529 T =  25
+prob-plan-generator/test_dom1/test_0044_5_8.tar.bz2
+Time:  0.288862943649 Cost:  9 Conflict:  0.655279878551 Success 1.0 T =  10
+Time:  1.55863904953 Cost:  5 Conflict:  0.0835529511376 Success 0.0501317706826 T =  15
+Time:  5.90996909142 Cost:  5 Conflict:  0.0835529511376 Success 0.0501317706826 T =  20
+Time:  10.7451839447 Cost:  5 Conflict:  0.0835529511376 Success 0.0501317706826 T =  25
+prob-plan-generator/test_dom1/test_0045_5_1.tar.bz2
+Time:  0.280789136887 Cost:  9 Conflict:  0.618161234469 Success 1.0 T =  10
+Time:  0.643997907639 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  15
+Time:  2.02098298073 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  20
+Time:  2.77082109451 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  25
+prob-plan-generator/test_dom1/test_0045_5_2.tar.bz2
+Time:  0.280552148819 Cost:  9 Conflict:  0.618161234469 Success 1.0 T =  10
+Time:  0.644999980927 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  15
+Time:  2.43094682693 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  20
+Time:  2.79719996452 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  25
+prob-plan-generator/test_dom1/test_0045_5_3.tar.bz2
+Time:  0.291700124741 Cost:  9 Conflict:  0.659539685917 Success 1.0 T =  10
+Time:  0.803586006165 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  15
+Time:  2.94692397118 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  20
+Time:  3.05534696579 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  25
+prob-plan-generator/test_dom1/test_0045_5_4.tar.bz2
+Time:  0.295310974121 Cost:  9 Conflict:  0.659539685917 Success 1.0 T =  10
+Time:  0.812845945358 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  15
+Time:  2.36038398743 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  20
+Time:  3.01494908333 Cost:  3 Conflict:  0.0 Success 0.305747699035 T =  25
+prob-plan-generator/test_dom1/test_0045_5_5.tar.bz2
+Time:  0.280242919922 Cost:  9 Conflict:  0.783461772938 Success 1.0 T =  10
+Time:  0.733556032181 Cost:  3 Conflict:  0.0 Success 0.388197363617 T =  15
+Time:  1.94080805779 Cost:  3 Conflict:  0.0 Success 0.388197363617 T =  20
+Time:  4.84781908989 Cost:  3 Conflict:  0.0 Success 0.388197363617 T =  25
+prob-plan-generator/test_dom1/test_0045_5_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.307111978531 Cost:  9 Conflict:  0.834153704109 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.650897979736 Cost:  3 Conflict:  0.0 Success 0.53799347966 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.27116394043 Cost:  3 Conflict:  0.0 Success 0.53799347966 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.15606713295 Cost:  3 Conflict:  0.0 Success 0.53799347966 T =  25
+prob-plan-generator/test_dom1/test_0045_5_7.tar.bz2
+Time:  0.280474901199 Cost:  9 Conflict:  0.799510084867 Success 1.0 T =  10
+Time:  0.626960039139 Cost:  3 Conflict:  0.00115772009003 Success 0.824805405288 T =  15
+Time:  1.90023708344 Cost:  3 Conflict:  0.0 Success 0.824805405288 T =  20
+Time:  2.65877890587 Cost:  3 Conflict:  0.0 Success 0.824805405288 T =  25
+prob-plan-generator/test_dom1/test_0045_5_8.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.274487018585 Cost:  9 Conflict:  0.815310334503 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.600577116013 Cost:  3 Conflict:  0.00446363844305 Success 0.942305492117 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.55409407616 Cost:  3 Conflict:  0.0 Success 0.949322434096 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.23900699615 Cost:  3 Conflict:  0.0 Success 0.949322434096 T =  25
+prob-plan-generator/test_dom1/test_0045_5_9.tar.bz2
+Time:  0.333610057831 Cost:  5 Conflict:  0.666666666667 Success 0.0232362201382 T =  10
+Time:  0.628408193588 Cost:  3 Conflict:  0.0163745622816 Success 0.967684111203 T =  15
+Time:  1.3921251297 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  2.72727203369 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0046_5_1.tar.bz2
+Time:  0.307163000107 Cost:  9 Conflict:  0.554721169542 Success 1.0 T =  10
+Time:  2.17827177048 Cost:  5 Conflict:  0.0604786236403 Success 0.270051096446 T =  15
+Time:  8.01522088051 Cost:  5 Conflict:  0.0352791971235 Success 0.270051096446 T =  20
+Time:  29.5027291775 Cost:  5 Conflict:  0.0249029626754 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0046_5_2.tar.bz2
+Time:  0.277365922928 Cost:  9 Conflict:  0.554721169542 Success 1.0 T =  10
+Time:  2.22182416916 Cost:  5 Conflict:  0.0604786236403 Success 0.270051096446 T =  15
+Time:  6.20366692543 Cost:  5 Conflict:  0.0352791971235 Success 0.270051096446 T =  20
+Time:  29.4768438339 Cost:  5 Conflict:  0.0249029626754 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0046_5_3.tar.bz2
+Time:  0.306659936905 Cost:  9 Conflict:  0.572487102216 Success 1.0 T =  10
+Time:  2.19522500038 Cost:  5 Conflict:  0.0624155591942 Success 0.278699963411 T =  15
+Time:  7.09232497215 Cost:  5 Conflict:  0.0364090761966 Success 0.278699963411 T =  20
+Time:  22.2299320698 Cost:  5 Conflict:  0.0257005243741 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0046_5_4.tar.bz2
+Time:  0.290499925613 Cost:  9 Conflict:  0.578178261035 Success 1.0 T =  10
+Time:  1.37535405159 Cost:  5 Conflict:  0.0648546272596 Success 0.278699963411 T =  15
+Time:  10.6093120575 Cost:  5 Conflict:  0.0378318659014 Success 0.278699963411 T =  20
+Time:  33.3495099545 Cost:  5 Conflict:  0.0267048465187 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0046_5_5.tar.bz2
+Time:  0.310215950012 Cost:  9 Conflict:  0.552369950164 Success 1.0 T =  10
+Time:  1.57414221764 Cost:  5 Conflict:  0.0548856677837 Success 0.158731729026 T =  15
+Time:  5.67310810089 Cost:  5 Conflict:  0.0299376369729 Success 0.158731729026 T =  20
+Time:  26.3886699677 Cost:  5 Conflict:  0.0205821254189 Success 0.158731729026 T =  25
+prob-plan-generator/test_dom1/test_0046_5_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.280549049377 Cost:  9 Conflict:  0.286796266319 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.54247903824 Cost:  5 Conflict:  0.0271238332248 Success 0.0542476664496 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.71922588348 Cost:  5 Conflict:  0.0120550369888 Success 0.0542476664496 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  27.2930190563 Cost:  5 Conflict:  0.00774966663565 Success 0.0542476664496 T =  25
+prob-plan-generator/test_dom1/test_0047_5_1.tar.bz2
+Time:  0.294691801071 Cost:  9 Conflict:  0.639391242639 Success 1.0 T =  10
+Time:  0.704463005066 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.91860890388 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  4.30234718323 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0047_5_2.tar.bz2
+Time:  0.299168109894 Cost:  9 Conflict:  0.639391242639 Success 1.0 T =  10
+Time:  0.711647033691 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.91969394684 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  4.24419784546 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0047_5_3.tar.bz2
+Time:  0.277447938919 Cost:  9 Conflict:  0.675938684265 Success 1.0 T =  10
+Time:  0.610298871994 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  2.7055079937 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  4.01334309578 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0047_5_4.tar.bz2
+Time:  0.271461009979 Cost:  9 Conflict:  0.675938684265 Success 1.0 T =  10
+Time:  0.607849836349 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  3.42701101303 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  3.12335181236 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0047_5_5.tar.bz2
+Time:  0.278730154037 Cost:  9 Conflict:  0.675938684265 Success 1.0 T =  10
+Time:  0.609153032303 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  2.69808292389 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  3.13087487221 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0047_5_6.tar.bz2
+Time:  0.285500049591 Cost:  9 Conflict:  0.664408826493 Success 1.0 T =  10
+Time:  0.72741484642 Cost:  3 Conflict:  0.0 Success 0.155005246545 T =  15
+Time:  1.60511302948 Cost:  3 Conflict:  0.0 Success 0.155005246545 T =  20
+Time:  3.03283190727 Cost:  3 Conflict:  0.0 Success 0.155005246545 T =  25
+prob-plan-generator/test_dom1/test_0047_5_7.tar.bz2
+Time:  0.316334009171 Cost:  9 Conflict:  0.502735402272 Success 1.0 T =  10
+Time:  1.63323783875 Cost:  3 Conflict:  0.0284294901133 Success 0.0498272424191 T =  15
+Time:  3.59517884254 Cost:  3 Conflict:  0.0126353289392 Success 0.0498272424191 T =  20
+Time:  5.79703783989 Cost:  3 Conflict:  0.00812271146094 Success 0.0498272424191 T =  25
+prob-plan-generator/test_dom1/test_0048_5_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.278877973557 Cost:  9 Conflict:  0.0899983070302 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.760994195938 Cost:  3 Conflict:  0.0 Success 0.0562489418939 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.13446092606 Cost:  3 Conflict:  0.0 Success 0.0562489418939 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.91805100441 Cost:  3 Conflict:  0.0 Success 0.0562489418939 T =  25
+prob-plan-generator/test_dom1/test_0048_5_2.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.270927906036 Cost:  9 Conflict:  0.0899983070302 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.765595197678 Cost:  3 Conflict:  0.0 Success 0.0562489418939 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.13295412064 Cost:  3 Conflict:  0.0 Success 0.0562489418939 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.62166690826 Cost:  3 Conflict:  0.0 Success 0.0562489418939 T =  25
+prob-plan-generator/test_dom1/test_0048_5_3.tar.bz2
+Time:  0.281471967697 Cost:  9 Conflict:  0.00750688488387 Success 1.0 T =  10
+Time:  1.38815903664 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  15
+Time:  2.48515605927 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  20
+Time:  4.37970709801 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  25
+prob-plan-generator/test_dom1/test_0048_5_4.tar.bz2
+Time:  0.271212816238 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.843410968781 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  15
+Time:  1.66534996033 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  20
+Time:  4.02754878998 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  25
+prob-plan-generator/test_dom1/test_0048_5_5.tar.bz2
+Time:  0.278048038483 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.894494056702 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  15
+Time:  1.72712922096 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  20
+Time:  3.9369790554 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  25
+prob-plan-generator/test_dom1/test_0048_5_6.tar.bz2
+Time:  0.268815040588 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  0.851196050644 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  15
+Time:  1.67347598076 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  20
+Time:  4.02290081978 Cost:  3 Conflict:  0.0 Success 0.00938360610484 T =  25
+prob-plan-generator/test_dom1/test_0048_5_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.278922080994 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.68225193024 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.54326701164 Cost:  3 Conflict:  0.0 Success 0.00467356440852 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.45977711678 Cost:  3 Conflict:  0.0 Success 0.00467356440852 T =  25
+prob-plan-generator/test_dom1/test_0048_5_8.tar.bz2
+Time:  0.313707113266 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.04526090622 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  1.9624569416 Cost:  3 Conflict:  0.0 Success 0.00101283112462 T =  20
+Time:  3.3706381321 Cost:  3 Conflict:  0.0 Success 0.00101283112462 T =  25
+prob-plan-generator/test_dom1/test_0049_5_1.tar.bz2
+Time:  0.282732009888 Cost:  9 Conflict:  0.639391242639 Success 1.0 T =  10
+Time:  0.744256973267 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.94727706909 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  3.83305811882 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0049_5_2.tar.bz2
+Time:  0.28192281723 Cost:  9 Conflict:  0.639391242639 Success 1.0 T =  10
+Time:  0.734515190125 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.95538902283 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  3.75504088402 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0049_5_3.tar.bz2
+Time:  0.280915975571 Cost:  9 Conflict:  0.659868885088 Success 1.0 T =  10
+Time:  0.631458997726 Cost:  3 Conflict:  0.0 Success 0.278699963411 T =  15
+Time:  3.40744805336 Cost:  3 Conflict:  0.0 Success 0.278699963411 T =  20
+Time:  3.64344596863 Cost:  3 Conflict:  0.0 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0049_5_4.tar.bz2
+Time:  0.288608074188 Cost:  9 Conflict:  0.665560043907 Success 1.0 T =  10
+Time:  0.737796068192 Cost:  3 Conflict:  0.0 Success 0.278699963411 T =  15
+Time:  1.89959192276 Cost:  3 Conflict:  0.0 Success 0.278699963411 T =  20
+Time:  6.86221194267 Cost:  3 Conflict:  0.0 Success 0.278699963411 T =  25
+prob-plan-generator/test_dom1/test_0049_5_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.299380064011 Cost:  9 Conflict:  0.777332895046 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.614872932434 Cost:  3 Conflict:  0.0 Success 0.345610966471 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.83220219612 Cost:  3 Conflict:  0.0 Success 0.345610966471 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.04474186897 Cost:  3 Conflict:  0.0 Success 0.345610966471 T =  25
+prob-plan-generator/test_dom1/test_0049_5_6.tar.bz2
+Time:  0.277550935745 Cost:  9 Conflict:  0.812156732158 Success 1.0 T =  10
+Time:  0.590279102325 Cost:  3 Conflict:  0.0 Success 0.369575074763 T =  15
+Time:  1.89226508141 Cost:  3 Conflict:  0.0 Success 0.369575074763 T =  20
+Time:  2.54446315765 Cost:  3 Conflict:  0.0 Success 0.369575074763 T =  25
+prob-plan-generator/test_dom1/test_0049_5_7.tar.bz2
+Time:  0.279535055161 Cost:  9 Conflict:  0.861861847957 Success 1.0 T =  10
+Time:  0.625269889832 Cost:  3 Conflict:  0.00159534521937 Success 0.0769101475381 T =  15
+Time:  1.84080004692 Cost:  3 Conflict:  0.000478603565811 Success 0.0769101475381 T =  20
+Time:  5.95770692825 Cost:  3 Conflict:  0.000319069043874 Success 0.0769101475381 T =  25
+prob-plan-generator/test_dom1/test_0049_5_8.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.284321069717 Cost:  9 Conflict:  0.855139401889 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.48690605164 Cost:  3 Conflict:  0.150327606754 Success 0.038999563726 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.20545101166 Cost:  3 Conflict:  0.0302153577027 Success 0.038999563726 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.25926494598 Cost:  3 Conflict:  0.0201435718018 Success 0.038999563726 T =  25
+prob-plan-generator/test_dom1/test_0049_5_9.tar.bz2
+Time:  0.314945936203 Cost:  9 Conflict:  0.840317889122 Success 1.0 T =  10
+Time:  1.77263188362 Cost:  3 Conflict:  0.072779796892 Success 0.051786448632 T =  15
+Time:  3.31824278831 Cost:  3 Conflict:  0.036389898446 Success 0.051786448632 T =  20
+Time:  5.93050694466 Cost:  3 Conflict:  0.0242599322973 Success 0.051786448632 T =  25
+prob-plan-generator/test_dom1/test_0050_5_1.tar.bz2
+Time:  0.278311014175 Cost:  9 Conflict:  0.58538102335 Success 1.0 T =  10
+Time:  0.808870077133 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.62987589836 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  2.9171628952 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0050_5_2.tar.bz2
+Time:  0.283536911011 Cost:  9 Conflict:  0.58538102335 Success 1.0 T =  10
+Time:  0.784772872925 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.63732886314 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  3.18931698799 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0050_5_3.tar.bz2
+Time:  0.276741027832 Cost:  9 Conflict:  0.621928464976 Success 1.0 T =  10
+Time:  0.749701976776 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.77988886833 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  4.80142378807 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0050_5_4.tar.bz2
+Time:  0.283365011215 Cost:  9 Conflict:  0.621928464976 Success 1.0 T =  10
+Time:  0.750248908997 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  15
+Time:  1.7747528553 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  20
+Time:  4.26147794724 Cost:  3 Conflict:  0.0 Success 0.270051096446 T =  25
+prob-plan-generator/test_dom1/test_0050_5_5.tar.bz2
+Time:  0.294363021851 Cost:  9 Conflict:  0.719356689701 Success 1.0 T =  10
+Time:  0.64106297493 Cost:  3 Conflict:  0.0 Success 0.332409057797 T =  15
+Time:  2.52796697617 Cost:  3 Conflict:  0.0 Success 0.332409057797 T =  20
+Time:  3.21648001671 Cost:  3 Conflict:  0.0 Success 0.332409057797 T =  25
+prob-plan-generator/test_dom1/test_0050_5_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.317781925201 Cost:  9 Conflict:  0.739934579526 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.602194070816 Cost:  3 Conflict:  0.0 Success 0.367184931797 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.25745201111 Cost:  3 Conflict:  0.0 Success 0.367184931797 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.96151900291 Cost:  3 Conflict:  0.0 Success 0.367184931797 T =  25
+prob-plan-generator/test_dom1/test_0050_5_7.tar.bz2
+Time:  0.292124032974 Cost:  9 Conflict:  0.756091184102 Success 1.0 T =  10
+Time:  0.62242102623 Cost:  3 Conflict:  0.000937423535428 Success 0.667857460298 T =  15
+Time:  1.94051098824 Cost:  3 Conflict:  0.0 Success 0.667857460298 T =  20
+Time:  5.29279088974 Cost:  3 Conflict:  0.0 Success 0.667857460298 T =  25
+prob-plan-generator/test_dom1/test_0050_5_8.tar.bz2
+Time:  0.27397108078 Cost:  9 Conflict:  0.834797342453 Success 1.0 T =  10
+Time:  0.619848966599 Cost:  3 Conflict:  0.000854385659531 Success 0.954669534201 T =  15
+Time:  2.03189396858 Cost:  3 Conflict:  0.0 Success 0.954669534201 T =  20
+Time:  2.67021083832 Cost:  3 Conflict:  0.0 Success 0.954669534201 T =  25
+prob-plan-generator/test_dom1/test_0050_5_9.tar.bz2
+Time:  0.320559024811 Cost:  5 Conflict:  0.666666666667 Success 0.0202874276792 T =  10
+Time:  0.638355016708 Cost:  3 Conflict:  0.010521969822 Success 0.979334316338 T =  15
+Time:  1.42698907852 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  2.46834492683 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0051_6_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.287790060043 Cost:  9 Conflict:  0.479296770449 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.54644107819 Cost:  5 Conflict:  0.0 Success 0.212630103782 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.4367210865 Cost:  5 Conflict:  0.0 Success 0.212630103782 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  110.536823988 Cost:  5 Conflict:  0.0 Success 0.212630103782 T =  25
+prob-plan-generator/test_dom1/test_0051_6_2.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.289062023163 Cost:  9 Conflict:  0.479296770449 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.88080096245 Cost:  5 Conflict:  0.0 Success 0.212630103782 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.00296497345 Cost:  5 Conflict:  0.0 Success 0.212630103782 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  111.700937986 Cost:  5 Conflict:  0.0 Success 0.212630103782 T =  25
+prob-plan-generator/test_dom1/test_0051_6_3.tar.bz2
+Time:  0.287052869797 Cost:  9 Conflict:  0.491301409928 Success 1.0 T =  10
+Time:  1.9464161396 Cost:  5 Conflict:  0.0 Success 0.217955713917 T =  15
+Time:  4.31780409813 Cost:  5 Conflict:  0.0 Success 0.217955713917 T =  20
+Time:  16.7405390739 Cost:  5 Conflict:  0.0 Success 0.217955713917 T =  25
+prob-plan-generator/test_dom1/test_0051_6_4.tar.bz2
+Time:  0.317523956299 Cost:  9 Conflict:  0.495752148163 Success 1.0 T =  10
+Time:  1.22720789909 Cost:  5 Conflict:  0.0 Success 0.217955713917 T =  15
+Time:  7.78849601746 Cost:  5 Conflict:  0.0 Success 0.217955713917 T =  20
+Time:  39.4899380207 Cost:  5 Conflict:  0.0 Success 0.217955713917 T =  25
+prob-plan-generator/test_dom1/test_0051_6_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.30090880394 Cost:  9 Conflict:  0.531497176048 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.42666101456 Cost:  5 Conflict:  0.0 Success 0.136987470913 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.7080450058 Cost:  5 Conflict:  0.0 Success 0.136987470913 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  40.1119670868 Cost:  5 Conflict:  0.0 Success 0.136987470913 T =  25
+prob-plan-generator/test_dom1/test_0051_6_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.370977878571 Cost:  9 Conflict:  0.333924925841 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.47581195831 Cost:  5 Conflict:  0.0190954210061 Success 0.0477385525151 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.98537802696 Cost:  5 Conflict:  0.00954771050303 Success 0.0477385525151 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  35.9081029892 Cost:  5 Conflict:  0.00636514033535 Success 0.0477385525151 T =  25
+prob-plan-generator/test_dom1/test_0052_6_1.tar.bz2
+Time:  0.285642147064 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.70378613472 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.49752616882 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.32053995132 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0052_6_2.tar.bz2
+Time:  0.288031101227 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.706414937973 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.71946811676 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.35933685303 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0052_6_3.tar.bz2
+Time:  0.293356180191 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.719974994659 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.54986190796 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.3805680275 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0052_6_4.tar.bz2
+Time:  0.280854940414 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.730268955231 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.51873016357 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.3977200985 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0052_6_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.298025846481 Cost:  9 Conflict:  0.73927280307 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.963404893875 Cost:  3 Conflict:  0.0 Success 0.22519104244 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.07109904289 Cost:  3 Conflict:  0.0 Success 0.22519104244 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.34643697739 Cost:  3 Conflict:  0.0 Success 0.22519104244 T =  25
+prob-plan-generator/test_dom1/test_0052_6_6.tar.bz2
+Time:  0.321612119675 Cost:  9 Conflict:  0.763369412139 Success 1.0 T =  10
+Time:  0.701786994934 Cost:  3 Conflict:  0.0 Success 0.260529412935 T =  15
+Time:  2.58472013474 Cost:  3 Conflict:  0.0 Success 0.260529412935 T =  20
+Time:  2.78370094299 Cost:  3 Conflict:  0.0 Success 0.260529412935 T =  25
+prob-plan-generator/test_dom1/test_0052_6_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.45241189003 Cost:  5 Conflict:  0.666666666667 Success 0.0820077706282 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.617001056671 Cost:  3 Conflict:  0.0 Success 0.60596001772 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.48915100098 Cost:  3 Conflict:  0.0 Success 0.60596001772 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.53589582443 Cost:  3 Conflict:  0.0 Success 0.60596001772 T =  25
+prob-plan-generator/test_dom1/test_0052_6_8.tar.bz2
+Time:  0.341969013214 Cost:  5 Conflict:  0.666666666667 Success 0.0423622761167 T =  10
+Time:  0.580075979233 Cost:  3 Conflict:  0.00298913209042 Success 0.951659459702 T =  15
+Time:  1.29466509819 Cost:  3 Conflict:  0.0 Success 0.957637723883 T =  20
+Time:  2.84235620499 Cost:  3 Conflict:  0.0 Success 0.957637723883 T =  25
+prob-plan-generator/test_dom1/test_0052_6_9.tar.bz2
+Time:  0.338553905487 Cost:  5 Conflict:  0.666666666667 Success 0.0695612263228 T =  10
+Time:  0.580639123917 Cost:  3 Conflict:  0.0131222371873 Success 0.973755525625 T =  15
+Time:  1.70200896263 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  3.03888583183 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0053_6_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.292827129364 Cost:  9 Conflict:  0.593599025993 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.708926916122 Cost:  3 Conflict:  0.0 Success 0.293599025993 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.61149406433 Cost:  3 Conflict:  0.0 Success 0.293599025993 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.15440511703 Cost:  3 Conflict:  0.0 Success 0.293599025993 T =  25
+prob-plan-generator/test_dom1/test_0053_6_2.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.283603191376 Cost:  9 Conflict:  0.593599025993 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.698947906494 Cost:  3 Conflict:  0.0 Success 0.293599025993 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.59033584595 Cost:  3 Conflict:  0.0 Success 0.293599025993 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.14502310753 Cost:  3 Conflict:  0.0 Success 0.293599025993 T =  25
+prob-plan-generator/test_dom1/test_0053_6_3.tar.bz2
+Time:  0.28383398056 Cost:  9 Conflict:  0.65544741061 Success 1.0 T =  10
+Time:  0.940798997879 Cost:  3 Conflict:  0.0 Success 0.303850612649 T =  15
+Time:  2.45340800285 Cost:  3 Conflict:  0.0 Success 0.303850612649 T =  20
+Time:  3.99949502945 Cost:  3 Conflict:  0.0 Success 0.303850612649 T =  25
+prob-plan-generator/test_dom1/test_0053_6_4.tar.bz2
+Time:  0.282606840134 Cost:  9 Conflict:  0.661652155213 Success 1.0 T =  10
+Time:  0.691346883774 Cost:  3 Conflict:  0.0 Success 0.303850612649 T =  15
+Time:  1.98150801659 Cost:  3 Conflict:  0.0 Success 0.303850612649 T =  20
+Time:  2.93113708496 Cost:  3 Conflict:  0.0 Success 0.303850612649 T =  25
+prob-plan-generator/test_dom1/test_0053_6_5.tar.bz2
+Time:  0.288102865219 Cost:  9 Conflict:  0.785164801037 Success 1.0 T =  10
+Time:  0.790568113327 Cost:  3 Conflict:  0.0 Success 0.385144272128 T =  15
+Time:  1.93628287315 Cost:  3 Conflict:  0.0 Success 0.385144272128 T =  20
+Time:  6.51571297646 Cost:  3 Conflict:  0.0 Success 0.385144272128 T =  25
+prob-plan-generator/test_dom1/test_0053_6_6.tar.bz2
+Time:  0.299009799957 Cost:  9 Conflict:  0.834403801661 Success 1.0 T =  10
+Time:  0.611050844193 Cost:  3 Conflict:  0.0 Success 0.537182181152 T =  15
+Time:  1.63571000099 Cost:  3 Conflict:  0.0 Success 0.537182181152 T =  20
+Time:  2.58471608162 Cost:  3 Conflict:  0.0 Success 0.537182181152 T =  25
+prob-plan-generator/test_dom1/test_0053_6_7.tar.bz2
+Time:  0.279691934586 Cost:  9 Conflict:  0.79957302538 Success 1.0 T =  10
+Time:  0.641078948975 Cost:  3 Conflict:  0.00147129020779 Success 0.824546471187 T =  15
+Time:  1.83066606522 Cost:  3 Conflict:  0.0 Success 0.824546471187 T =  20
+Time:  2.92962002754 Cost:  3 Conflict:  0.0 Success 0.824546471187 T =  25
+prob-plan-generator/test_dom1/test_0053_6_8.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.286667823792 Cost:  9 Conflict:  0.815334224672 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.613367080688 Cost:  3 Conflict:  0.00459241409284 Success 0.942183602041 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.44095492363 Cost:  3 Conflict:  0.0 Success 0.949199636358 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.01916909218 Cost:  3 Conflict:  0.0 Success 0.949199636358 T =  25
+prob-plan-generator/test_dom1/test_0053_6_9.tar.bz2
+Time:  0.344538927078 Cost:  5 Conflict:  0.666666666667 Success 0.0232357187947 T =  10
+Time:  0.63664484024 Cost:  3 Conflict:  0.0163742089849 Success 0.967684808449 T =  15
+Time:  1.18659615517 Cost:  3 Conflict:  0.0 Success 1.0 T =  20
+Time:  2.12728905678 Cost:  3 Conflict:  0.0 Success 1.0 T =  25
+prob-plan-generator/test_dom1/test_0054_6_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.287102937698 Cost:  9 Conflict:  0.240868478185 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.02924799919 Cost:  7 Conflict:  0.0 Success 0.0593833085465 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  7.68785905838 Cost:  7 Conflict:  0.0 Success 0.0593833085465 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  78.750223875 Cost:  7 Conflict:  0.0 Success 0.0593833085465 T =  25
+prob-plan-generator/test_dom1/test_0054_6_2.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.276762008667 Cost:  9 Conflict:  0.166842234446 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.82780408859 Cost:  5 Conflict:  0.0128340180343 Success 0.0641700901716 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.86533880234 Cost:  5 Conflict:  0.00641700901716 Success 0.0641700901716 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  22.3814768791 Cost:  5 Conflict:  0.00427800601144 Success 0.0641700901716 T =  25
+prob-plan-generator/test_dom1/test_0054_6_3.tar.bz2
+Time:  0.270452022552 Cost:  9 Conflict:  0.00869331943572 Success 1.0 T =  10
+Time:  1.80729007721 Cost:  7 Conflict:  0.0 Success 0.0108666492947 T =  15
+Time:  8.35893011093 Cost:  7 Conflict:  0.0 Success 0.0108666492947 T =  20
+Time:  97.0385680199 Cost:  7 Conflict:  0.0 Success 0.0108666492947 T =  25
+prob-plan-generator/test_dom1/test_0054_6_4.tar.bz2
+Time:  0.275687217712 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.42226314545 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  15
+Time:  17.4277498722 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  20
+Time:  138.61758709 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  25
+prob-plan-generator/test_dom1/test_0054_6_5.tar.bz2
+Time:  0.272496938705 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.44987201691 Cost:  7 Conflict:  0.000377002017166 Success 0.0124774716825 T =  15
+Time:  17.301815033 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  20
+Time:  291.770797014 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  25
+prob-plan-generator/test_dom1/test_0054_6_6.tar.bz2
+Time:  0.270792961121 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.46583890915 Cost:  7 Conflict:  0.000377002017166 Success 0.0124774716825 T =  15
+Time:  17.4615249634 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  20
+Time:  215.379927874 Cost:  7 Conflict:  0.0 Success 0.0109694636139 T =  25
+prob-plan-generator/test_dom1/test_0054_6_7.tar.bz2
+Time:  0.278810024261 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.90226316452 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  26.5934970379 Cost:  7 Conflict:  0.0 Success 0.00534489874108 T =  20
+Time:  101.366908073 Cost:  7 Conflict:  0.0 Success 0.00534489874108 T =  25
+prob-plan-generator/test_dom1/test_0054_6_8.tar.bz2
+Time:  0.29464507103 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.76603102684 Cost:  9 Conflict:  4.75684032511e-05 Success 1.0 T =  15
+Time:  15.2557060719 Cost:  7 Conflict:  0.0 Success 0.0010536261481 T =  20
+Time:  89.7116558552 Cost:  7 Conflict:  0.0 Success 0.0010536261481 T =  25
+prob-plan-generator/test_dom1/test_0055_6_1.tar.bz2
+Time:  0.312371015549 Cost:  9 Conflict:  0.561972637 Success 1.0 T =  10
+Time:  1.62788200378 Cost:  5 Conflict:  0.0 Success 0.234155265417 T =  15
+Time:  5.39024591446 Cost:  5 Conflict:  0.0 Success 0.234155265417 T =  20
+Time:  45.0369400978 Cost:  5 Conflict:  0.0 Success 0.234155265417 T =  25
+prob-plan-generator/test_dom1/test_0055_6_2.tar.bz2
+Time:  0.326348781586 Cost:  9 Conflict:  0.561972637 Success 1.0 T =  10
+Time:  1.91955018044 Cost:  5 Conflict:  0.0 Success 0.234155265417 T =  15
+Time:  5.48471999168 Cost:  5 Conflict:  0.0 Success 0.234155265417 T =  20
+Time:  45.6448931694 Cost:  5 Conflict:  0.0 Success 0.234155265417 T =  25
+prob-plan-generator/test_dom1/test_0055_6_3.tar.bz2
+Time:  0.318788051605 Cost:  9 Conflict:  0.610078043425 Success 1.0 T =  10
+Time:  2.75498008728 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  15
+Time:  8.10139203072 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  20
+Time:  30.2353360653 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  25
+prob-plan-generator/test_dom1/test_0055_6_4.tar.bz2
+Time:  0.309471845627 Cost:  9 Conflict:  0.614991801702 Success 1.0 T =  10
+Time:  1.58299612999 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  15
+Time:  7.59461307526 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  20
+Time:  26.7773830891 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  25
+prob-plan-generator/test_dom1/test_0055_6_5.tar.bz2
+Time:  0.297908067703 Cost:  9 Conflict:  0.614991801702 Success 1.0 T =  10
+Time:  1.56900811195 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  15
+Time:  7.87321209908 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  20
+Time:  27.1016719341 Cost:  5 Conflict:  0.0 Success 0.240630123936 T =  25
+prob-plan-generator/test_dom1/test_0055_6_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.295726060867 Cost:  9 Conflict:  0.671143414778 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.39258885384 Cost:  5 Conflict:  0.000379784688953 Success 0.405860363388 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.69215106964 Cost:  5 Conflict:  0.0 Success 0.405860363388 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  46.4855029583 Cost:  5 Conflict:  0.0 Success 0.405860363388 T =  25
+prob-plan-generator/test_dom1/test_0055_6_7.tar.bz2
+Time:  0.275425195694 Cost:  9 Conflict:  0.72715755292 Success 1.0 T =  10
+Time:  2.1633939743 Cost:  5 Conflict:  0.000616540701757 Success 0.201179058222 T =  15
+Time:  7.27184891701 Cost:  5 Conflict:  0.0 Success 0.201179058222 T =  20
+Time:  37.4472689629 Cost:  5 Conflict:  0.0 Success 0.201179058222 T =  25
+prob-plan-generator/test_dom1/test_0055_6_8.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.311856031418 Cost:  9 Conflict:  0.835827780745 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.36593008041 Cost:  5 Conflict:  0.00794607579533 Success 0.016762294513 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.43164086342 Cost:  5 Conflict:  0.00353158924237 Success 0.016762294513 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  21.6982209682 Cost:  5 Conflict:  0.00227030737009 Success 0.016762294513 T =  25
+prob-plan-generator/test_dom1/test_0055_6_9.tar.bz2
+Time:  0.302438020706 Cost:  9 Conflict:  0.840277820027 Success 1.0 T =  10
+Optimization was stopped with status 4
+Optimization was stopped with status 4
+Time:  27.5112321377 Cost:  5 Conflict:  0.00168541081177 Success 0.0196204346227 T =  25
+prob-plan-generator/test_dom1/test_0056_6_1.tar.bz2
+Time:  0.314634084702 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.89280796051 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.66467499733 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  4.34408688545 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0056_6_2.tar.bz2
+Time:  0.291750192642 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.771646976471 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.55095791817 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.84662795067 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0056_6_3.tar.bz2
+Time:  0.308809041977 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.766134023666 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.74693107605 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.80991101265 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0056_6_4.tar.bz2
+Time:  0.303873062134 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.814188957214 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.59032392502 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.59382605553 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0056_6_5.tar.bz2
+Time:  0.324076890945 Cost:  9 Conflict:  0.666324897243 Success 1.0 T =  10
+Time:  0.91353392601 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  15
+Time:  2.94413399696 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  20
+Time:  3.59355592728 Cost:  3 Conflict:  0.0 Success 0.194729252297 T =  25
+prob-plan-generator/test_dom1/test_0056_6_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.314918041229 Cost:  9 Conflict:  0.714197430106 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.883829116821 Cost:  3 Conflict:  0.0 Success 0.120845165425 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.36661505699 Cost:  3 Conflict:  0.0 Success 0.120845165425 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.17458701134 Cost:  3 Conflict:  0.0 Success 0.120845165425 T =  25
+prob-plan-generator/test_dom1/test_0056_6_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.381165027618 Cost:  9 Conflict:  0.575476245118 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.03946614265 Cost:  3 Conflict:  0.0319942968178 Success 0.0426590624237 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.84841299057 Cost:  3 Conflict:  0.0142196874746 Success 0.0426590624237 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  10.6541819572 Cost:  3 Conflict:  0.00914122766222 Success 0.0426590624237 T =  25
+prob-plan-generator/test_dom1/test_0057_6_1.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.305146932602 Cost:  9 Conflict:  0.109226746216 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.857136011124 Cost:  3 Conflict:  0.0 Success 0.0455111442569 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.80138397217 Cost:  3 Conflict:  0.0 Success 0.0455111442569 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  8.94432806969 Cost:  3 Conflict:  0.0 Success 0.0455111442569 T =  25
+prob-plan-generator/test_dom1/test_0057_6_10.tar.bz2
+Time:  0.313105106354 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  3.16855096817 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  2.71516704559 Cost:  3 Conflict:  0.0 Success 0.00158739898373 T =  20
+Time:  4.39632797241 Cost:  3 Conflict:  0.0 Success 0.00158739898373 T =  25
+prob-plan-generator/test_dom1/test_0057_6_2.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.318966150284 Cost:  9 Conflict:  0.109226746216 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.849757194519 Cost:  3 Conflict:  0.0 Success 0.0455111442569 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.64944601059 Cost:  3 Conflict:  0.0 Success 0.0455111442569 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  9.3267159462 Cost:  3 Conflict:  0.0 Success 0.0455111442569 T =  25
+prob-plan-generator/test_dom1/test_0057_6_3.tar.bz2
+Time:  0.303939819336 Cost:  9 Conflict:  0.0059538023722 Success 1.0 T =  10
+Time:  1.05324578285 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  15
+Time:  2.41442704201 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  20
+Time:  5.91153693199 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  25
+prob-plan-generator/test_dom1/test_0057_6_4.tar.bz2
+Time:  0.301431179047 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.32953214645 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  15
+Time:  4.4544699192 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  20
+Time:  10.6809878349 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  25
+prob-plan-generator/test_dom1/test_0057_6_5.tar.bz2
+Time:  0.310475111008 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.34138584137 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  15
+Time:  4.01570391655 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  20
+Time:  10.9537110329 Cost:  3 Conflict:  0.0 Success 0.00744225296525 T =  25
+prob-plan-generator/test_dom1/test_0057_6_6.tar.bz2
+Time:  0.29433298111 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.01448702812 Cost:  3 Conflict:  0.0 Success 0.0099651349281 T =  15
+Time:  3.87648797035 Cost:  3 Conflict:  0.0 Success 0.0099651349281 T =  20
+Time:  6.44928097725 Cost:  3 Conflict:  0.0 Success 0.0099651349281 T =  25
+prob-plan-generator/test_dom1/test_0057_6_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.31672000885 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.970715999603 Cost:  3 Conflict:  0.0 Success 0.0172394043886 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.55240488052 Cost:  3 Conflict:  0.0 Success 0.0172394043886 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.98296308517 Cost:  3 Conflict:  0.0 Success 0.0172394043886 T =  25
+prob-plan-generator/test_dom1/test_0057_6_8.tar.bz2
+Time:  0.310660123825 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  1.0491309166 Cost:  3 Conflict:  0.0 Success 0.0249604827061 T =  15
+Time:  4.13033604622 Cost:  3 Conflict:  0.0 Success 0.0249604827061 T =  20
+Time:  4.2631008625 Cost:  3 Conflict:  0.0 Success 0.0249604827061 T =  25
+prob-plan-generator/test_dom1/test_0057_6_9.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.287349939346 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.17756009102 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.73071813583 Cost:  3 Conflict:  0.0 Success 0.0114311835472 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  5.88111495972 Cost:  3 Conflict:  0.0 Success 0.0114311835472 T =  25
+prob-plan-generator/test_dom1/test_0058_6_1.tar.bz2
+Time:  0.33331990242 Cost:  9 Conflict:  0.548548209032 Success 1.0 T =  10
+Time:  2.14314508438 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  15
+Time:  13.1316740513 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  20
+Time:  31.4231030941 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  25
+prob-plan-generator/test_dom1/test_0058_6_2.tar.bz2
+Time:  0.361696958542 Cost:  9 Conflict:  0.548548209032 Success 1.0 T =  10
+Time:  2.15263581276 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  15
+Time:  13.0175831318 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  20
+Time:  30.8776831627 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  25
+prob-plan-generator/test_dom1/test_0058_6_3.tar.bz2
+Time:  0.346377849579 Cost:  9 Conflict:  0.548548209032 Success 1.0 T =  10
+Time:  2.17135286331 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  15
+Time:  13.2039539814 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  20
+Time:  32.0466990471 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  25
+prob-plan-generator/test_dom1/test_0058_6_4.tar.bz2
+Time:  0.33629488945 Cost:  9 Conflict:  0.548548209032 Success 1.0 T =  10
+Time:  2.12360405922 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  15
+Time:  12.7673969269 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  20
+Time:  30.597520113 Cost:  5 Conflict:  0.0 Success 0.17960842212 T =  25
+prob-plan-generator/test_dom1/test_0058_6_5.tar.bz2
+Time:  0.360388994217 Cost:  9 Conflict:  0.598234776435 Success 1.0 T =  10
+Time:  1.46551084518 Cost:  5 Conflict:  0.0 Success 0.20521212841 T =  15
+Time:  7.28553295135 Cost:  5 Conflict:  0.0 Success 0.20521212841 T =  20
+Time:  43.4058530331 Cost:  5 Conflict:  0.0 Success 0.20521212841 T =  25
+prob-plan-generator/test_dom1/test_0058_6_6.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.309428930283 Cost:  9 Conflict:  0.623021286113 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.27198386192 Cost:  5 Conflict:  0.0118766617093 Success 0.0593833085465 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.36412191391 Cost:  5 Conflict:  0.00593833085465 Success 0.0593833085465 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  25.9220869541 Cost:  5 Conflict:  0.00395888723644 Success 0.0593833085465 T =  25
+prob-plan-generator/test_dom1/test_0058_6_7.tar.bz2
+Time:  0.359598875046 Cost:  9 Conflict:  0.720008196166 Success 1.0 T =  10
+Time:  3.06160211563 Cost:  5 Conflict:  0.0597675688642 Success 0.0336063161019 T =  15
+Time:  8.16980314255 Cost:  5 Conflict:  0.0326004921078 Success 0.0336063161019 T =  20
+Time:  48.9711999893 Cost:  5 Conflict:  0.0224128383241 Success 0.0336063161019 T =  25
+prob-plan-generator/test_dom1/test_0058_6_8.tar.bz2
+Time:  0.424314022064 Cost:  5 Conflict:  0.666666666667 Success 0.0166184703196 T =  10
+Time:  2.82658290863 Cost:  5 Conflict:  0.108177963072 Success 0.0438194298545 T =  15
+Time:  7.06709098816 Cost:  5 Conflict:  0.108177963072 Success 0.0438194298545 T =  20
+Time:  22.8469698429 Cost:  5 Conflict:  0.108177963072 Success 0.0438194298545 T =  25
+prob-plan-generator/test_dom1/test_0059_6_1.tar.bz2
+Time:  0.304100990295 Cost:  9 Conflict:  0.385201878353 Success 1.0 T =  10
+Time:  0.869886875153 Cost:  3 Conflict:  0.0 Success 0.073285732554 T =  15
+Time:  2.66668200493 Cost:  3 Conflict:  0.0 Success 0.073285732554 T =  20
+Time:  7.0384888649 Cost:  3 Conflict:  0.0 Success 0.073285732554 T =  25
+prob-plan-generator/test_dom1/test_0059_6_2.tar.bz2
+Time:  0.308012962341 Cost:  9 Conflict:  0.306722317637 Success 1.0 T =  10
+Time:  0.833249092102 Cost:  3 Conflict:  0.0 Success 0.0807163993782 T =  15
+Time:  2.39939379692 Cost:  3 Conflict:  0.0 Success 0.0807163993782 T =  20
+Time:  5.67980599403 Cost:  3 Conflict:  0.0 Success 0.0807163993782 T =  25
+prob-plan-generator/test_dom1/test_0059_6_3.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.281860113144 Cost:  9 Conflict:  0.0183976809668 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.36395406723 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.68838000298 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.56792187691 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  25
+prob-plan-generator/test_dom1/test_0059_6_4.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.283982038498 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.93959903717 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.16338396072 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  6.99204897881 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  25
+prob-plan-generator/test_dom1/test_0059_6_5.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.296200037003 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  1.09359002113 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.06842207909 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  7.27700185776 Cost:  3 Conflict:  0.0 Success 0.0153314008057 T =  25
+prob-plan-generator/test_dom1/test_0059_6_6.tar.bz2
+Time:  0.297572135925 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  4.87092494965 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  2.92126202583 Cost:  3 Conflict:  0.0 Success 0.00672156965668 T =  20
+Time:  4.83470201492 Cost:  3 Conflict:  0.0 Success 0.00672156965668 T =  25
+prob-plan-generator/test_dom1/test_0059_6_7.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.274110078812 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.58410000801 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  2.29520893097 Cost:  3 Conflict:  0.0 Success 0.0012193237548 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  7.99707698822 Cost:  3 Conflict:  0.0 Success 0.0012193237548 T =  25
+prob-plan-generator/test_dom1/test_0060_6_1.tar.bz2
+Time:  0.299742937088 Cost:  9 Conflict:  0.157397880951 Success 1.0 T =  10
+Time:  2.76247787476 Cost:  5 Conflict:  0.0 Success 0.0430499977725 T =  15
+Time:  6.04147410393 Cost:  5 Conflict:  0.0 Success 0.0430499977725 T =  20
+Time:  25.322799921 Cost:  5 Conflict:  0.0 Success 0.0430499977725 T =  25
+prob-plan-generator/test_dom1/test_0060_6_2.tar.bz2
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  0.291835069656 Cost:  9 Conflict:  0.100124517365 Success 1.0 T =  10
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  3.04270195961 Cost:  5 Conflict:  0.0 Success 0.0455111442569 T =  15
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  4.69404816628 Cost:  5 Conflict:  0.0 Success 0.0455111442569 T =  20
+Warning: adding constraints with small (< 1e-13) coefficients, ignored
+Time:  17.6872739792 Cost:  5 Conflict:  0.0 Success 0.0455111442569 T =  25
+prob-plan-generator/test_dom1/test_0060_6_3.tar.bz2
+Time:  0.293848991394 Cost:  9 Conflict:  0.0059538023722 Success 1.0 T =  10
+Time:  1.23796391487 Cost:  5 Conflict:  0.0 Success 0.00744225296525 T =  15
+Time:  4.28921198845 Cost:  5 Conflict:  0.0 Success 0.00744225296525 T =  20

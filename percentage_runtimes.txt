@@ -1,0 +1,60 @@
+prob-plan-generator/test_dom1/test_0020_2_6.tar.bz2
+Time:  0.273422956467 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.3660531044 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  7.1269800663 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  52.2388379574 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+Time Taken: 140.000711203  sec
+prob-plan-generator/test_dom1/test_0020_2_7.tar.bz2
+Time:  0.27010512352 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.6559920311 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  10.0763249397 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  101.457877159 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+Time Taken: 184.459759951  sec
+prob-plan-generator/test_dom1/test_0020_2_8.tar.bz2
+Time:  0.273866891861 Cost:  9 Conflict:  0.0 Success 1.0 T =  10
+Time:  2.05581521988 Cost:  9 Conflict:  0.0 Success 1.0 T =  15
+Time:  23.661082983 Cost:  9 Conflict:  0.0 Success 1.0 T =  20
+Time:  108.84000206 Cost:  9 Conflict:  0.0 Success 1.0 T =  25
+Time Taken: 218.283107996  sec
+prob-plan-generator/test_dom1/test_0021_3_1.tar.bz2
+Time:  0.271518945694 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.49040102959 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  6.18601298332 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  74.7084300518 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 203.598197937  sec
+prob-plan-generator/test_dom1/test_0021_3_2.tar.bz2
+Time:  0.280892133713 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.59867095947 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  7.73238921165 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  71.5248808861 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 167.219397068  sec
+prob-plan-generator/test_dom1/test_0021_3_3.tar.bz2
+Time:  0.277554035187 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.50697588921 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  7.02768707275 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  73.3455989361 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 209.570656061  sec
+prob-plan-generator/test_dom1/test_0021_3_4.tar.bz2
+Time:  0.275681972504 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.46752095222 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  6.11907601357 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  70.8726449013 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 177.95882082  sec
+prob-plan-generator/test_dom1/test_0021_3_5.tar.bz2
+Time:  0.272866010666 Cost:  9 Conflict:  0.766324897243 Success 1.0 T =  10
+Time:  1.47682213783 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  15
+Time:  7.02502703667 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  20
+Time:  61.966283083 Cost:  9 Conflict:  0.0 Success 0.389458504594 T =  25
+Time Taken: 192.983510971  sec
+prob-plan-generator/test_dom1/test_0021_3_6.tar.bz2
+Time:  0.269932985306 Cost:  9 Conflict:  0.765120779206 Success 1.0 T =  10
+Time:  2.40841603279 Cost:  9 Conflict:  0.0158937229363 Success 0.587198051985 T =  15
+Time:  5.39244389534 Cost:  9 Conflict:  0.0 Success 0.587198051985 T =  20
+Time:  87.9295341969 Cost:  9 Conflict:  0.0 Success 0.587198051985 T =  25
+Time Taken: 202.554670095  sec
+prob-plan-generator/test_dom1/test_0021_3_7.tar.bz2
+Time:  0.296600103378 Cost:  9 Conflict:  0.705705549483 Success 1.0 T =  10
+Time:  2.05981516838 Cost:  9 Conflict:  0.0607758092496 Success 0.735736126293 T =  15
+Time:  4.32899689674 Cost:  9 Conflict:  0.0 Success 0.735736126293 T =  20
+Time:  42.4344549179 Cost:  9 Conflict:  0.0 Success 0.735736126293 T =  25
+Time Taken: 180.593812943  sec

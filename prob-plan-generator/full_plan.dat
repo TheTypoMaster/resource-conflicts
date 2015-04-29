@@ -1,0 +1,7 @@
+move commx room3 hall4
+move_reverse commx hall4 hall3
+move_reverse commx hall3 hall2
+move_reverse commx hall2 hall1
+move_reverse commx hall1 room1
+pick_up_medkit commx mkeast room1
+conduct_triage commx room1

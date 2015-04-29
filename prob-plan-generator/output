@@ -1,0 +1,1417 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+5
+begin_variable
+var0
+-1
+10
+Atom at(human, hall1)
+Atom at(human, hall2)
+Atom at(human, hall3)
+Atom at(human, hall4)
+Atom at(human, hall5)
+Atom at(human, room1)
+Atom at(human, room2)
+Atom at(human, room3)
+Atom at(human, room4)
+Atom at(human, room5)
+end_variable
+begin_variable
+var2
+-1
+11
+Atom at(mk2, hall1)
+Atom at(mk2, hall2)
+Atom at(mk2, hall3)
+Atom at(mk2, hall4)
+Atom at(mk2, hall5)
+Atom at(mk2, room1)
+Atom at(mk2, room2)
+Atom at(mk2, room3)
+Atom at(mk2, room4)
+Atom at(mk2, room5)
+Atom has(human, mk2)
+end_variable
+begin_variable
+var1
+-1
+11
+Atom at(mk1, hall1)
+Atom at(mk1, hall2)
+Atom at(mk1, hall3)
+Atom at(mk1, hall4)
+Atom at(mk1, hall5)
+Atom at(mk1, room1)
+Atom at(mk1, room2)
+Atom at(mk1, room3)
+Atom at(mk1, room4)
+Atom at(mk1, room5)
+Atom has(human, mk1)
+end_variable
+begin_variable
+var33
+-1
+2
+Atom has_medkit(human)
+NegatedAtom has_medkit(human)
+end_variable
+begin_variable
+var6
+-1
+2
+Atom conducted_triage(human, hall4)
+NegatedAtom conducted_triage(human, hall4)
+end_variable
+0
+begin_state
+9
+7
+6
+1
+1
+end_state
+begin_goal
+2
+3 1
+4 0
+end_goal
+61
+begin_operator
+conduct_triage human hall4
+2
+0 3
+3 0
+1
+0 4 -1 0
+1
+end_operator
+begin_operator
+drop_off human mk1 hall1
+1
+0 0
+2
+0 2 10 0
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 hall2
+1
+0 1
+2
+0 2 10 1
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 hall3
+1
+0 2
+2
+0 2 10 2
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 hall4
+1
+0 3
+2
+0 2 10 3
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 hall5
+1
+0 4
+2
+0 2 10 4
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 room1
+1
+0 5
+2
+0 2 10 5
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 room2
+1
+0 6
+2
+0 2 10 6
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 room3
+1
+0 7
+2
+0 2 10 7
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 room4
+1
+0 8
+2
+0 2 10 8
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk1 room5
+1
+0 9
+2
+0 2 10 9
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 hall1
+1
+0 0
+2
+0 1 10 0
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 hall2
+1
+0 1
+2
+0 1 10 1
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 hall3
+1
+0 2
+2
+0 1 10 2
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 hall4
+1
+0 3
+2
+0 1 10 3
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 hall5
+1
+0 4
+2
+0 1 10 4
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 room1
+1
+0 5
+2
+0 1 10 5
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 room2
+1
+0 6
+2
+0 1 10 6
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 room3
+1
+0 7
+2
+0 1 10 7
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 room4
+1
+0 8
+2
+0 1 10 8
+0 3 -1 1
+1
+end_operator
+begin_operator
+drop_off human mk2 room5
+1
+0 9
+2
+0 1 10 9
+0 3 -1 1
+1
+end_operator
+begin_operator
+move human hall1 hall2
+0
+1
+0 0 0 1
+1
+end_operator
+begin_operator
+move human hall2 hall3
+0
+1
+0 0 1 2
+1
+end_operator
+begin_operator
+move human hall3 hall4
+0
+1
+0 0 2 3
+1
+end_operator
+begin_operator
+move human hall4 hall5
+0
+1
+0 0 3 4
+1
+end_operator
+begin_operator
+move human room1 hall1
+0
+1
+0 0 5 0
+1
+end_operator
+begin_operator
+move human room2 hall2
+0
+1
+0 0 6 1
+1
+end_operator
+begin_operator
+move human room3 room4
+0
+1
+0 0 7 8
+1
+end_operator
+begin_operator
+move human room4 hall4
+0
+1
+0 0 8 3
+1
+end_operator
+begin_operator
+move human room5 hall1
+0
+1
+0 0 9 0
+1
+end_operator
+begin_operator
+move human room5 hall5
+0
+1
+0 0 9 4
+1
+end_operator
+begin_operator
+move_reverse human hall1 room1
+0
+1
+0 0 0 5
+1
+end_operator
+begin_operator
+move_reverse human hall1 room5
+0
+1
+0 0 0 9
+1
+end_operator
+begin_operator
+move_reverse human hall2 hall1
+0
+1
+0 0 1 0
+1
+end_operator
+begin_operator
+move_reverse human hall2 room2
+0
+1
+0 0 1 6
+1
+end_operator
+begin_operator
+move_reverse human hall3 hall2
+0
+1
+0 0 2 1
+1
+end_operator
+begin_operator
+move_reverse human hall4 hall3
+0
+1
+0 0 3 2
+1
+end_operator
+begin_operator
+move_reverse human hall4 room4
+0
+1
+0 0 3 8
+1
+end_operator
+begin_operator
+move_reverse human hall5 hall4
+0
+1
+0 0 4 3
+1
+end_operator
+begin_operator
+move_reverse human hall5 room5
+0
+1
+0 0 4 9
+1
+end_operator
+begin_operator
+move_reverse human room4 room3
+0
+1
+0 0 8 7
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 hall1
+1
+0 0
+2
+0 2 0 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 hall2
+1
+0 1
+2
+0 2 1 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 hall3
+1
+0 2
+2
+0 2 2 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 hall4
+1
+0 3
+2
+0 2 3 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 hall5
+1
+0 4
+2
+0 2 4 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 room1
+1
+0 5
+2
+0 2 5 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 room2
+1
+0 6
+2
+0 2 6 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 room3
+1
+0 7
+2
+0 2 7 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 room4
+1
+0 8
+2
+0 2 8 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk1 room5
+1
+0 9
+2
+0 2 9 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 hall1
+1
+0 0
+2
+0 1 0 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 hall2
+1
+0 1
+2
+0 1 1 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 hall3
+1
+0 2
+2
+0 1 2 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 hall4
+1
+0 3
+2
+0 1 3 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 hall5
+1
+0 4
+2
+0 1 4 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 room1
+1
+0 5
+2
+0 1 5 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 room2
+1
+0 6
+2
+0 1 6 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 room3
+1
+0 7
+2
+0 1 7 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 room4
+1
+0 8
+2
+0 1 8 10
+0 3 -1 0
+1
+end_operator
+begin_operator
+pick_up_medkit human mk2 room5
+1
+0 9
+2
+0 1 9 10
+0 3 -1 0
+1
+end_operator
+0
+begin_SG
+switch 0
+check 0
+switch 2
+check 3
+21
+31
+32
+check 1
+41
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+1
+switch 1
+check 0
+check 1
+51
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+11
+check 0
+switch 2
+check 3
+22
+33
+34
+check 0
+check 1
+42
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+2
+switch 1
+check 0
+check 0
+check 1
+52
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+12
+check 0
+switch 2
+check 2
+23
+35
+check 0
+check 0
+check 1
+43
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+3
+switch 1
+check 0
+check 0
+check 0
+check 1
+53
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+13
+check 0
+switch 2
+check 3
+24
+36
+37
+check 0
+check 0
+check 0
+check 1
+44
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+4
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 1
+54
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+14
+switch 3
+check 0
+check 1
+0
+check 0
+check 0
+switch 2
+check 2
+38
+39
+check 0
+check 0
+check 0
+check 0
+check 1
+45
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+5
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+55
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+15
+check 0
+switch 2
+check 1
+25
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+46
+check 0
+check 0
+check 0
+check 0
+check 1
+6
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+56
+check 0
+check 0
+check 0
+check 0
+check 1
+16
+check 0
+switch 2
+check 1
+26
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+47
+check 0
+check 0
+check 0
+check 1
+7
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+57
+check 0
+check 0
+check 0
+check 1
+17
+check 0
+switch 2
+check 1
+27
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+48
+check 0
+check 0
+check 1
+8
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+58
+check 0
+check 0
+check 1
+18
+check 0
+switch 2
+check 2
+28
+40
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+49
+check 0
+check 1
+9
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+59
+check 0
+check 1
+19
+check 0
+switch 2
+check 2
+29
+30
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+50
+check 1
+10
+switch 1
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 0
+check 1
+60
+check 1
+20
+check 0
+check 0
+end_SG
+begin_DTG
+3
+1
+21
+0
+5
+31
+0
+9
+32
+0
+3
+0
+33
+0
+2
+22
+0
+6
+34
+0
+2
+1
+35
+0
+3
+23
+0
+3
+2
+36
+0
+4
+24
+0
+8
+37
+0
+2
+3
+38
+0
+9
+39
+0
+1
+0
+25
+0
+1
+1
+26
+0
+1
+8
+27
+0
+2
+3
+28
+0
+7
+40
+0
+2
+0
+29
+0
+4
+30
+0
+end_DTG
+begin_DTG
+1
+10
+51
+1
+0 0
+1
+10
+52
+1
+0 1
+1
+10
+53
+1
+0 2
+1
+10
+54
+1
+0 3
+1
+10
+55
+1
+0 4
+1
+10
+56
+1
+0 5
+1
+10
+57
+1
+0 6
+1
+10
+58
+1
+0 7
+1
+10
+59
+1
+0 8
+1
+10
+60
+1
+0 9
+10
+0
+11
+1
+0 0
+1
+12
+1
+0 1
+2
+13
+1
+0 2
+3
+14
+1
+0 3
+4
+15
+1
+0 4
+5
+16
+1
+0 5
+6
+17
+1
+0 6
+7
+18
+1
+0 7
+8
+19
+1
+0 8
+9
+20
+1
+0 9
+end_DTG
+begin_DTG
+1
+10
+41
+1
+0 0
+1
+10
+42
+1
+0 1
+1
+10
+43
+1
+0 2
+1
+10
+44
+1
+0 3
+1
+10
+45
+1
+0 4
+1
+10
+46
+1
+0 5
+1
+10
+47
+1
+0 6
+1
+10
+48
+1
+0 7
+1
+10
+49
+1
+0 8
+1
+10
+50
+1
+0 9
+10
+0
+1
+1
+0 0
+1
+2
+1
+0 1
+2
+3
+1
+0 2
+3
+4
+1
+0 3
+4
+5
+1
+0 4
+5
+6
+1
+0 5
+6
+7
+1
+0 6
+7
+8
+1
+0 7
+8
+9
+1
+0 8
+9
+10
+1
+0 9
+end_DTG
+begin_DTG
+20
+1
+11
+2
+0 0
+1 10
+1
+20
+2
+0 9
+1 10
+1
+19
+2
+0 8
+1 10
+1
+18
+2
+0 7
+1 10
+1
+17
+2
+0 6
+1 10
+1
+16
+2
+0 5
+1 10
+1
+15
+2
+0 4
+1 10
+1
+14
+2
+0 3
+1 10
+1
+13
+2
+0 2
+1 10
+1
+12
+2
+0 1
+1 10
+1
+1
+2
+0 0
+2 10
+1
+10
+2
+0 9
+2 10
+1
+9
+2
+0 8
+2 10
+1
+8
+2
+0 7
+2 10
+1
+7
+2
+0 6
+2 10
+1
+6
+2
+0 5
+2 10
+1
+5
+2
+0 4
+2 10
+1
+4
+2
+0 3
+2 10
+1
+3
+2
+0 2
+2 10
+1
+2
+2
+0 1
+2 10
+20
+0
+51
+2
+0 0
+1 0
+0
+60
+2
+0 9
+1 9
+0
+59
+2
+0 8
+1 8
+0
+58
+2
+0 7
+1 7
+0
+57
+2
+0 6
+1 6
+0
+56
+2
+0 5
+1 5
+0
+55
+2
+0 4
+1 4
+0
+54
+2
+0 3
+1 3
+0
+53
+2
+0 2
+1 2
+0
+52
+2
+0 1
+1 1
+0
+41
+2
+0 0
+2 0
+0
+50
+2
+0 9
+2 9
+0
+49
+2
+0 8
+2 8
+0
+48
+2
+0 7
+2 7
+0
+47
+2
+0 6
+2 6
+0
+46
+2
+0 5
+2 5
+0
+45
+2
+0 4
+2 4
+0
+44
+2
+0 3
+2 3
+0
+43
+2
+0 2
+2 2
+0
+42
+2
+0 1
+2 1
+end_DTG
+begin_DTG
+0
+1
+0
+0
+2
+0 3
+3 0
+end_DTG
+begin_CG
+4
+2 20
+1 20
+4 1
+3 40
+1
+3 20
+1
+3 20
+1
+4 1
+0
+end_CG
