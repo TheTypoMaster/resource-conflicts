@@ -1,0 +1,5 @@
+Domain=LOGISTICS
+Problem=LOGISTICS-4-0
+Preprocessing=0.00609
+Fluents=61
+Operators=254

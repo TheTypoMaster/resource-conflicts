@@ -1,5 +1,0 @@
-(move human room5 hall5)
-(move_reverse human hall5 hall4)
-(move_reverse human hall4 room4)
-(move_reverse human room4 room3)
-(pick_up_medkit human mk2 room3)
